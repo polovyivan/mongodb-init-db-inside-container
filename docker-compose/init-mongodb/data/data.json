@@ -1,0 +1,3493 @@
+[
+  {
+    "id": "7bc5ab98-126a-4cbd-abd3-2eb8aa9f933c",
+    "fullName": "Carroll Vandervort DVM",
+    "phoneNumber": "649.164.8459",
+    "address": "6750 Kreiger Islands, Port Wilbertside, GA 60013",
+    "createdAt": "2016-02-01",
+    "purchaseTransactions": [
+      {
+        "id": "75770e5d-c763-4806-a3cc-ae9498857128",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 39.63,
+        "createdAt": "2018-12-10"
+      },
+      {
+        "id": "babf0148-fe18-40e9-91fb-14291c035083",
+        "paymentType": "SOLO",
+        "amount": 30.54,
+        "createdAt": "2014-06-17"
+      },
+      {
+        "id": "6975d835-fb05-4dc5-ba8f-af0493b2312f",
+        "paymentType": "JCB",
+        "amount": 84.86,
+        "createdAt": "2012-11-24"
+      },
+      {
+        "id": "536d615a-4398-4f07-b2f9-1d774378e8f0",
+        "paymentType": "DANKORT",
+        "amount": 66.27,
+        "createdAt": "2012-12-02"
+      },
+      {
+        "id": "dc2de96e-9e0d-4faf-937c-7a29e2613d41",
+        "paymentType": "LASER",
+        "amount": 68.57,
+        "createdAt": "2019-03-02"
+      },
+      {
+        "id": "4ab431c2-1a4b-4e20-a8ef-6786335368d9",
+        "paymentType": "MASTERCARD",
+        "amount": 10.07,
+        "createdAt": "2019-10-02"
+      }
+    ]
+  },
+  {
+    "id": "fc394f03-ad38-45ac-8812-fab4a5b7fd0d",
+    "fullName": "Fausto Hamill",
+    "phoneNumber": "(480) 121-1587",
+    "address": "3008 Hackett Brooks, Greenfelderburgh, IN 15234",
+    "createdAt": "2019-12-06",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "34c8d1db-46e0-4a80-bc0c-864de3db0047",
+    "fullName": "Jamison Lindgren I",
+    "phoneNumber": "890.768.1341",
+    "address": "86913 Rocky Center, South Dwanatown, OH 22960-2683",
+    "createdAt": "2021-03-09",
+    "purchaseTransactions": [
+      {
+        "id": "7eac12b1-f4ab-4f03-b4fe-bb9ea7e61127",
+        "paymentType": "LASER",
+        "amount": 32.32,
+        "createdAt": "2014-12-17"
+      },
+      {
+        "id": "e7532e7c-bd06-4559-929b-ce91eb49fa57",
+        "paymentType": "SWITCH",
+        "amount": 54.61,
+        "createdAt": "2017-08-29"
+      },
+      {
+        "id": "f9c980e0-c2e9-4494-9753-bbd1ccb6b107",
+        "paymentType": "VISA",
+        "amount": 21.64,
+        "createdAt": "2014-05-23"
+      },
+      {
+        "id": "b9430bc9-2227-4d50-8164-f53cc166a464",
+        "paymentType": "VISA",
+        "amount": 36.12,
+        "createdAt": "2018-09-07"
+      },
+      {
+        "id": "a84a4e7e-988a-41ac-882b-30d150538832",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 10.60,
+        "createdAt": "2014-05-27"
+      },
+      {
+        "id": "53669cde-6648-4e43-b39a-4423d772fc32",
+        "paymentType": "DANKORT",
+        "amount": 61.34,
+        "createdAt": "2020-03-24"
+      },
+      {
+        "id": "37cf5db3-3a2d-428d-9305-d070e40c7438",
+        "paymentType": "DINERS_CLUB",
+        "amount": 98.70,
+        "createdAt": "2022-02-05"
+      }
+    ]
+  },
+  {
+    "id": "7e16c7f6-83a7-48f7-8427-3a6f69c7e169",
+    "fullName": "Gabriel Romaguera",
+    "phoneNumber": "948-956-8766",
+    "address": "Suite 672 8389 Purdy Viaduct, Schoenshire, NH 84754",
+    "createdAt": "2018-12-30",
+    "purchaseTransactions": [
+      {
+        "id": "704ceabe-78a8-4cac-b63f-c02cd5d32eb2",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 64.75,
+        "createdAt": "2014-06-11"
+      },
+      {
+        "id": "0f4231eb-53fb-4ae7-9527-21362a05c5c6",
+        "paymentType": "VISA",
+        "amount": 71.44,
+        "createdAt": "2014-12-28"
+      },
+      {
+        "id": "6765955e-7a25-4545-a301-97644114d2d9",
+        "paymentType": "MASTERCARD",
+        "amount": 51.40,
+        "createdAt": "2018-12-07"
+      },
+      {
+        "id": "f246dca2-eba9-4408-96bc-60622fef143b",
+        "paymentType": "DISCOVER",
+        "amount": 66.28,
+        "createdAt": "2016-03-20"
+      },
+      {
+        "id": "bdb44fdd-1aba-4f72-9fff-c834a3ce0fab",
+        "paymentType": "JCB",
+        "amount": 6.21,
+        "createdAt": "2017-08-26"
+      },
+      {
+        "id": "361ffb3d-dc4d-4565-97c0-a78655137698",
+        "paymentType": "DINERS_CLUB",
+        "amount": 65.85,
+        "createdAt": "2019-02-01"
+      },
+      {
+        "id": "9d56edf9-1e14-42c4-aec4-5aaef2913866",
+        "paymentType": "DANKORT",
+        "amount": 75.82,
+        "createdAt": "2013-06-18"
+      }
+    ]
+  },
+  {
+    "id": "4b024d0a-e587-4ae3-9b16-5c4cf7a2d905",
+    "fullName": "Refugio Gislason",
+    "phoneNumber": "177-990-6850",
+    "address": "821 Oscar Spur, Velvatown, NE 75602-2402",
+    "createdAt": "2016-01-17",
+    "purchaseTransactions": [
+      {
+        "id": "f83c1af0-278b-4b01-a788-0d4c31936f8e",
+        "paymentType": "DANKORT",
+        "amount": 40.93,
+        "createdAt": "2014-06-16"
+      },
+      {
+        "id": "2eb9d01a-e8c4-4580-8b19-98a15b45a4f0",
+        "paymentType": "JCB",
+        "amount": 7.23,
+        "createdAt": "2019-10-31"
+      },
+      {
+        "id": "b29f5bc3-fa23-4f8d-bcdf-d1416fa5b4fd",
+        "paymentType": "SOLO",
+        "amount": 15.19,
+        "createdAt": "2021-05-20"
+      },
+      {
+        "id": "d1813d5f-673d-4086-ba74-bda3ea23ec51",
+        "paymentType": "SWITCH",
+        "amount": 33.69,
+        "createdAt": "2015-02-27"
+      },
+      {
+        "id": "92363460-ae71-41f4-8984-30db2bd274f8",
+        "paymentType": "DINERS_CLUB",
+        "amount": 57.78,
+        "createdAt": "2019-11-20"
+      },
+      {
+        "id": "7d18220c-0c49-4930-ae52-ec2845a34d79",
+        "paymentType": "DISCOVER",
+        "amount": 33.20,
+        "createdAt": "2012-10-07"
+      },
+      {
+        "id": "f9ab4b21-3680-4702-93e5-836b833a45dc",
+        "paymentType": "VISA",
+        "amount": 88.01,
+        "createdAt": "2020-09-26"
+      },
+      {
+        "id": "a9733642-573b-4c92-9faf-288192bd3953",
+        "paymentType": "DISCOVER",
+        "amount": 47.01,
+        "createdAt": "2013-08-29"
+      }
+    ]
+  },
+  {
+    "id": "8cb93c8c-a5a7-417f-b4f7-d7951c6c448f",
+    "fullName": "Demarcus Langosh",
+    "phoneNumber": "759-592-1570",
+    "address": "Apt. 968 1377 Filiberto Junctions, Margaritetown, LA 21834",
+    "createdAt": "2015-04-29",
+    "purchaseTransactions": [
+      {
+        "id": "14861002-3332-4dfa-bc9b-b34e08d8619b",
+        "paymentType": "VISA",
+        "amount": 75.69,
+        "createdAt": "2021-06-21"
+      },
+      {
+        "id": "2287a3fa-4192-4eab-9650-4ea0da62e305",
+        "paymentType": "DISCOVER",
+        "amount": 80.70,
+        "createdAt": "2013-09-24"
+      },
+      {
+        "id": "a0914f2f-4ded-441c-9779-c0a9c6aaca33",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 11.76,
+        "createdAt": "2019-03-22"
+      },
+      {
+        "id": "cc984361-0432-4ba4-86cd-74ca2a859acf",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 43.43,
+        "createdAt": "2020-07-06"
+      },
+      {
+        "id": "a49ab5a5-6444-4c15-8233-cbc86926736f",
+        "paymentType": "SWITCH",
+        "amount": 24.97,
+        "createdAt": "2016-10-23"
+      },
+      {
+        "id": "4bb9137a-9466-47b8-893b-cae55d6b0142",
+        "paymentType": "DANKORT",
+        "amount": 43.91,
+        "createdAt": "2018-03-11"
+      },
+      {
+        "id": "8134b5da-d26b-40e0-a257-c3d4293db12c",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 42.19,
+        "createdAt": "2015-08-26"
+      },
+      {
+        "id": "4fdb61f8-a725-4710-b339-c580f468573f",
+        "paymentType": "SWITCH",
+        "amount": 67.33,
+        "createdAt": "2014-07-25"
+      }
+    ]
+  },
+  {
+    "id": "3390aa8f-5dc8-4458-becb-09e4640941e8",
+    "fullName": "Margy Langosh",
+    "phoneNumber": "(127) 766-0547",
+    "address": "7892 Simonis Lodge, Carrollside, HI 67521-3544",
+    "createdAt": "2017-08-08",
+    "purchaseTransactions": [
+      {
+        "id": "ec3c2b81-f8d1-4325-b677-f9b4e3dac74b",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 14.36,
+        "createdAt": "2019-08-27"
+      },
+      {
+        "id": "ee975682-9c85-4754-b414-fa999bf173b3",
+        "paymentType": "DISCOVER",
+        "amount": 87.96,
+        "createdAt": "2017-05-18"
+      }
+    ]
+  },
+  {
+    "id": "266fbb42-aee6-4402-a965-e55f5273c142",
+    "fullName": "Lisandra Wisozk",
+    "phoneNumber": "(591) 909-5191",
+    "address": "Suite 011 37845 Kub Flat, Trompmouth, WY 29493",
+    "createdAt": "2015-10-06",
+    "purchaseTransactions": [
+      {
+        "id": "96db4816-7f40-43e5-ba63-573730e73e1f",
+        "paymentType": "JCB",
+        "amount": 60.47,
+        "createdAt": "2017-07-01"
+      }
+    ]
+  },
+  {
+    "id": "9d276f6b-7985-44e2-b1ce-1b8a66fa69d8",
+    "fullName": "Bruno Pacocha",
+    "phoneNumber": "632.000.3833",
+    "address": "Apt. 345 0696 Tyron Land, Ornview, GA 57569-2260",
+    "createdAt": "2017-03-25",
+    "purchaseTransactions": [
+      {
+        "id": "ac866228-2cce-46ef-bf49-c66151a1de50",
+        "paymentType": "SOLO",
+        "amount": 4.48,
+        "createdAt": "2020-06-25"
+      },
+      {
+        "id": "036beff2-e808-4c9e-a39b-4ddfafac758f",
+        "paymentType": "DISCOVER",
+        "amount": 38.69,
+        "createdAt": "2020-10-08"
+      }
+    ]
+  },
+  {
+    "id": "83dec21d-c9e2-49da-b9bd-dd5883d6baaf",
+    "fullName": "Delois Terry",
+    "phoneNumber": "150-104-5422",
+    "address": "Suite 676 079 Gerard Villages, Herzogport, NM 27092-0658",
+    "createdAt": "2020-05-11",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "ea13557f-d335-429b-aec0-cc670f414441",
+    "fullName": "Toya Boehm DVM",
+    "phoneNumber": "(769) 767-2914",
+    "address": "Apt. 713 05923 Denis Plaza, East Milagro, CA 77178",
+    "createdAt": "2013-10-31",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "5b9261d0-d6ef-49a7-a20c-8c493beae110",
+    "fullName": "Quinn Abbott",
+    "phoneNumber": "(412) 042-8468",
+    "address": "Apt. 411 5569 Runte Canyon, Maximamouth, HI 94536",
+    "createdAt": "2012-12-08",
+    "purchaseTransactions": [
+      {
+        "id": "ff4c416f-6358-443a-a2a8-f3d6d557c507",
+        "paymentType": "DISCOVER",
+        "amount": 16.47,
+        "createdAt": "2013-06-19"
+      },
+      {
+        "id": "0a843cb7-0da1-40fc-b1c8-3809eac7ed2d",
+        "paymentType": "MASTERCARD",
+        "amount": 33.41,
+        "createdAt": "2015-11-18"
+      },
+      {
+        "id": "efa6366f-6e4e-4047-8a40-2f6b45cdee44",
+        "paymentType": "JCB",
+        "amount": 59.95,
+        "createdAt": "2016-09-29"
+      },
+      {
+        "id": "3af0327c-5fd8-4e59-93da-a3b5f608e6c9",
+        "paymentType": "VISA",
+        "amount": 35.55,
+        "createdAt": "2018-01-29"
+      },
+      {
+        "id": "b3430884-abda-4d63-83d1-8c01f28eb0ce",
+        "paymentType": "VISA",
+        "amount": 89.28,
+        "createdAt": "2015-09-01"
+      }
+    ]
+  },
+  {
+    "id": "0979e935-791e-4e9a-9d64-5d7bf85aa1b7",
+    "fullName": "Colin Yost",
+    "phoneNumber": "585.356.5358",
+    "address": "Suite 776 2803 Harber Expressway, Wilmerstad, TX 80997",
+    "createdAt": "2020-12-03",
+    "purchaseTransactions": [
+      {
+        "id": "98510383-fb56-4fef-a0ef-99b86b6aad72",
+        "paymentType": "MASTERCARD",
+        "amount": 98.20,
+        "createdAt": "2022-01-25"
+      }
+    ]
+  },
+  {
+    "id": "eb8ffb97-665c-458f-bdde-0bca34ae9909",
+    "fullName": "Amado Stokes",
+    "phoneNumber": "197-293-7497",
+    "address": "008 Grady Mount, West Everetttown, ND 25857-8379",
+    "createdAt": "2015-03-30",
+    "purchaseTransactions": [
+      {
+        "id": "d4653e63-1c4b-4d37-99a4-a592a576e78e",
+        "paymentType": "JCB",
+        "amount": 80.27,
+        "createdAt": "2018-05-28"
+      },
+      {
+        "id": "e24edf9b-5aa2-4df0-b791-f84ccebaccaa",
+        "paymentType": "LASER",
+        "amount": 16.83,
+        "createdAt": "2014-09-03"
+      }
+    ]
+  },
+  {
+    "id": "4409b56e-2445-4805-a149-02f08a923401",
+    "fullName": "Maximo Corkery",
+    "phoneNumber": "1-979-017-7399",
+    "address": "Suite 870 065 Kris Mountains, Lake Lashundaborough, MO 47478-2405",
+    "createdAt": "2014-02-17",
+    "purchaseTransactions": [
+      {
+        "id": "6ec2cadb-df9d-47c5-852b-3374b9f642cc",
+        "paymentType": "MASTERCARD",
+        "amount": 57.36,
+        "createdAt": "2017-01-31"
+      },
+      {
+        "id": "f635cf3e-385e-4e6a-b0de-2f506547ee2c",
+        "paymentType": "SOLO",
+        "amount": 1.93,
+        "createdAt": "2021-02-04"
+      },
+      {
+        "id": "e34aded8-0fcf-421a-962b-03a63ad9b2b2",
+        "paymentType": "LASER",
+        "amount": 72.56,
+        "createdAt": "2017-01-31"
+      },
+      {
+        "id": "44137893-17ca-4a4b-b62d-b145f7593f01",
+        "paymentType": "SOLO",
+        "amount": 14.84,
+        "createdAt": "2016-05-28"
+      },
+      {
+        "id": "0474ae32-e836-4779-b405-29316c0f2cb6",
+        "paymentType": "SOLO",
+        "amount": 66.48,
+        "createdAt": "2017-04-05"
+      },
+      {
+        "id": "97c56531-491a-4bb8-b6c0-e3d734f72a95",
+        "paymentType": "LASER",
+        "amount": 29.99,
+        "createdAt": "2021-03-15"
+      },
+      {
+        "id": "40675497-f77f-4154-80c8-8b2ed70e4f59",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 43.03,
+        "createdAt": "2015-03-15"
+      },
+      {
+        "id": "279e0c04-b86d-42a9-be53-ecb968022552",
+        "paymentType": "VISA",
+        "amount": 64.57,
+        "createdAt": "2016-11-25"
+      },
+      {
+        "id": "99567631-c3ce-4f43-be33-a2b189a29d57",
+        "paymentType": "SWITCH",
+        "amount": 38.82,
+        "createdAt": "2013-11-20"
+      }
+    ]
+  },
+  {
+    "id": "a3d8db8c-db67-43f8-8328-1bdceede6b1b",
+    "fullName": "Von Larson",
+    "phoneNumber": "1-548-434-8825",
+    "address": "Suite 785 22713 Strosin Greens, North Carmela, DE 30400-0511",
+    "createdAt": "2017-09-12",
+    "purchaseTransactions": [
+      {
+        "id": "f54287ea-5e30-43af-a612-e9feecc90ae4",
+        "paymentType": "VISA",
+        "amount": 3.65,
+        "createdAt": "2015-10-06"
+      },
+      {
+        "id": "19858a49-e799-427f-a658-5b9074f7c8ad",
+        "paymentType": "DANKORT",
+        "amount": 67.86,
+        "createdAt": "2022-02-11"
+      },
+      {
+        "id": "6d4fa43d-bdd8-4eff-bb46-dd113aefa4e6",
+        "paymentType": "SWITCH",
+        "amount": 13.63,
+        "createdAt": "2013-10-20"
+      }
+    ]
+  },
+  {
+    "id": "f4f4af6c-4681-4aa4-981b-607913aa2db9",
+    "fullName": "Miss Cleotilde Bailey",
+    "phoneNumber": "(352) 768-8386",
+    "address": "Suite 991 254 Vernon Walk, Alphonsobury, CA 44451",
+    "createdAt": "2015-09-29",
+    "purchaseTransactions": [
+      {
+        "id": "29405e81-3fed-4ed4-a75f-7546c618dfc1",
+        "paymentType": "MASTERCARD",
+        "amount": 89.87,
+        "createdAt": "2016-02-20"
+      }
+    ]
+  },
+  {
+    "id": "912152a9-96f0-4dee-a730-16779146b5cd",
+    "fullName": "Tova Schulist II",
+    "phoneNumber": "(127) 727-9039",
+    "address": "893 Esteban Turnpike, Lashundaberg, SC 25013",
+    "createdAt": "2014-03-22",
+    "purchaseTransactions": [
+      {
+        "id": "3b1a5569-9eee-4ffc-ab00-2ca833781bbb",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 64.59,
+        "createdAt": "2017-12-10"
+      },
+      {
+        "id": "e8714480-b4c0-42e9-8eec-39ce7ccb0b50",
+        "paymentType": "LASER",
+        "amount": 39.68,
+        "createdAt": "2013-07-08"
+      },
+      {
+        "id": "49c36c01-cd40-42c6-b6ef-2ab3c7154097",
+        "paymentType": "SOLO",
+        "amount": 51.97,
+        "createdAt": "2019-04-04"
+      },
+      {
+        "id": "9948081e-5c20-4873-b4ae-a8a79a05d961",
+        "paymentType": "DISCOVER",
+        "amount": 13.38,
+        "createdAt": "2013-03-08"
+      },
+      {
+        "id": "2bebf198-fb87-4c5f-a632-fadb6260c6a6",
+        "paymentType": "VISA",
+        "amount": 32.32,
+        "createdAt": "2014-01-31"
+      },
+      {
+        "id": "69ef39c1-0311-4036-92a2-4a04576f4c1f",
+        "paymentType": "MASTERCARD",
+        "amount": 75.98,
+        "createdAt": "2013-03-24"
+      }
+    ]
+  },
+  {
+    "id": "2dd88ff6-2c2e-4b57-ad1f-8bb5207afe0c",
+    "fullName": "Karoline Haag DDS",
+    "phoneNumber": "(686) 860-3612",
+    "address": "Suite 284 2052 Rocky Tunnel, North Marquita, WA 39051",
+    "createdAt": "2015-11-12",
+    "purchaseTransactions": [
+      {
+        "id": "3afaae6b-a85d-4b9c-a3a7-258a5627b5f3",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 82.03,
+        "createdAt": "2014-02-16"
+      },
+      {
+        "id": "cda602bc-9794-4b47-a494-5c0ddb72ae66",
+        "paymentType": "LASER",
+        "amount": 44.14,
+        "createdAt": "2015-07-24"
+      },
+      {
+        "id": "bcaea09b-68ee-450a-88fe-bd584717a8bf",
+        "paymentType": "DINERS_CLUB",
+        "amount": 94.64,
+        "createdAt": "2020-11-20"
+      },
+      {
+        "id": "86027134-e146-44f4-87b3-fe989d129cde",
+        "paymentType": "SOLO",
+        "amount": 78.51,
+        "createdAt": "2016-12-01"
+      },
+      {
+        "id": "654b8575-9982-49f6-8fcc-ae0337e1736e",
+        "paymentType": "JCB",
+        "amount": 23.25,
+        "createdAt": "2016-12-23"
+      }
+    ]
+  },
+  {
+    "id": "64fb3279-4613-4006-b7b2-3b6bc9f66c5c",
+    "fullName": "Pedro Vandervort",
+    "phoneNumber": "592-259-0421",
+    "address": "Apt. 481 92530 Wolf Courts, Gutkowskichester, MO 13549-0807",
+    "createdAt": "2016-03-14",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "7da61eda-54f7-4629-9f58-7f52a7f6f633",
+    "fullName": "Alyssa Wisoky PhD",
+    "phoneNumber": "(579) 111-7450",
+    "address": "Apt. 507 204 Witting Springs, Devinville, MI 81990-6361",
+    "createdAt": "2016-01-13",
+    "purchaseTransactions": [
+      {
+        "id": "dbe6bc41-332c-4d91-9444-3077fe672ef1",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 65.21,
+        "createdAt": "2019-09-07"
+      },
+      {
+        "id": "0da0e0c6-9821-4f93-b018-dae419e57037",
+        "paymentType": "DANKORT",
+        "amount": 91.10,
+        "createdAt": "2017-04-25"
+      },
+      {
+        "id": "76c1c3ff-8e08-48f9-85de-160f8127c47d",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 90.06,
+        "createdAt": "2015-03-31"
+      },
+      {
+        "id": "c9139d43-6a22-42f4-a373-487b74100755",
+        "paymentType": "DISCOVER",
+        "amount": 28.42,
+        "createdAt": "2019-04-27"
+      },
+      {
+        "id": "7a968597-9cda-4faa-a8dd-58b849f92c13",
+        "paymentType": "LASER",
+        "amount": 46.18,
+        "createdAt": "2015-03-21"
+      }
+    ]
+  },
+  {
+    "id": "93db7925-bf07-4f89-98e3-dd1f6747b46e",
+    "fullName": "Frederick Cummerata",
+    "phoneNumber": "1-584-371-7459",
+    "address": "Suite 535 0167 Trena Points, Brettville, IN 77995-4698",
+    "createdAt": "2012-12-26",
+    "purchaseTransactions": [
+      {
+        "id": "3c61af7e-29da-4d8b-86ef-90b655e7ec14",
+        "paymentType": "MASTERCARD",
+        "amount": 10.91,
+        "createdAt": "2017-10-17"
+      },
+      {
+        "id": "1306a94f-4b17-4054-ad47-617edd6b7e28",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 12.54,
+        "createdAt": "2015-06-01"
+      },
+      {
+        "id": "38c89ba1-16bc-4fa4-8e5b-cd724e0f93a5",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 22.39,
+        "createdAt": "2017-09-19"
+      },
+      {
+        "id": "62fc6d67-f8b0-4bdc-9229-f5c0d9e9381d",
+        "paymentType": "VISA",
+        "amount": 51.31,
+        "createdAt": "2018-10-25"
+      },
+      {
+        "id": "64555989-9ef7-4d8b-9cda-e6d16b81e6e3",
+        "paymentType": "LASER",
+        "amount": 76.98,
+        "createdAt": "2021-01-27"
+      },
+      {
+        "id": "9c83adac-750a-42d5-a8d4-b1394560b4b9",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 79.73,
+        "createdAt": "2020-09-17"
+      },
+      {
+        "id": "9aecf8a3-a5b5-48b6-bd68-938e18b0ad1c",
+        "paymentType": "JCB",
+        "amount": 34.57,
+        "createdAt": "2021-10-29"
+      }
+    ]
+  },
+  {
+    "id": "fe8caab2-1abd-4bb1-9d2d-abd98161b4b9",
+    "fullName": "Marvin Parisian",
+    "phoneNumber": "1-285-332-9436",
+    "address": "Suite 849 889 Silvana Spur, Hirtheside, CO 07337-4434",
+    "createdAt": "2013-12-18",
+    "purchaseTransactions": [
+      {
+        "id": "46b3cf35-ed91-4e67-be14-8ad0a2707dd9",
+        "paymentType": "SWITCH",
+        "amount": 75.84,
+        "createdAt": "2015-11-01"
+      },
+      {
+        "id": "0ce33f03-e368-4408-97c0-58773df7a2e5",
+        "paymentType": "DANKORT",
+        "amount": 11.31,
+        "createdAt": "2018-08-04"
+      },
+      {
+        "id": "d6b5ed12-5963-4847-b9c0-c858a1edcc0e",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 78.94,
+        "createdAt": "2018-03-04"
+      },
+      {
+        "id": "decbf693-6057-4306-8290-5fc1a82cb1eb",
+        "paymentType": "VISA",
+        "amount": 49.81,
+        "createdAt": "2020-06-23"
+      },
+      {
+        "id": "7a2c4456-befc-48ce-afd8-61b936ab1799",
+        "paymentType": "SWITCH",
+        "amount": 15.61,
+        "createdAt": "2017-04-21"
+      }
+    ]
+  },
+  {
+    "id": "aed2fa45-0b4b-47b0-ae25-a008ee62e602",
+    "fullName": "Markus Lakin",
+    "phoneNumber": "1-969-504-7295",
+    "address": "Apt. 972 44327 Donnell Dam, Jaskolskishire, AR 81695-0955",
+    "createdAt": "2013-12-31",
+    "purchaseTransactions": [
+      {
+        "id": "fd79f82d-6476-48e3-a9f4-7f3b457a1287",
+        "paymentType": "JCB",
+        "amount": 78.10,
+        "createdAt": "2018-11-04"
+      },
+      {
+        "id": "fd5458ad-a28c-4eb6-9de5-95d7b2de9ea5",
+        "paymentType": "SWITCH",
+        "amount": 84.97,
+        "createdAt": "2019-11-22"
+      },
+      {
+        "id": "9f0de5b7-b4d5-4307-b4d6-4cfd5c72690a",
+        "paymentType": "JCB",
+        "amount": 5.00,
+        "createdAt": "2019-08-12"
+      },
+      {
+        "id": "412d1804-4c05-4019-b1df-ab14cbd0c38c",
+        "paymentType": "SWITCH",
+        "amount": 57.26,
+        "createdAt": "2014-01-22"
+      },
+      {
+        "id": "dc465048-215a-4268-97fc-465bbb8eae23",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 55.92,
+        "createdAt": "2012-06-06"
+      },
+      {
+        "id": "3976ab28-afec-4b10-801b-3a92b2056526",
+        "paymentType": "VISA",
+        "amount": 77.14,
+        "createdAt": "2013-03-10"
+      },
+      {
+        "id": "959230cc-7280-494d-8987-6ab168d7a444",
+        "paymentType": "DINERS_CLUB",
+        "amount": 86.47,
+        "createdAt": "2021-07-08"
+      }
+    ]
+  },
+  {
+    "id": "11d0341d-4cc6-43db-997a-3a4b0d8052df",
+    "fullName": "Eleanore Walter DDS",
+    "phoneNumber": "349.914.2440",
+    "address": "Suite 774 8751 Carroll Manors, Kuvalisport, CT 63980-7689",
+    "createdAt": "2018-06-05",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "9514befa-4fbb-4d48-bf7a-4bda9168f4a4",
+    "fullName": "Cheree Larson",
+    "phoneNumber": "400-841-0215",
+    "address": "219 Bruen Branch, Colinhaven, CT 32612",
+    "createdAt": "2015-06-26",
+    "purchaseTransactions": [
+      {
+        "id": "c9568826-4e2a-4080-af9a-64160eb15832",
+        "paymentType": "VISA",
+        "amount": 14.46,
+        "createdAt": "2018-07-17"
+      },
+      {
+        "id": "6b2a8c16-459c-4b4b-900d-55a874cd6ea5",
+        "paymentType": "JCB",
+        "amount": 11.29,
+        "createdAt": "2017-09-19"
+      },
+      {
+        "id": "0640106f-5b88-4f32-b2fb-afa452afbf3f",
+        "paymentType": "DISCOVER",
+        "amount": 15.11,
+        "createdAt": "2015-12-23"
+      },
+      {
+        "id": "2143ab42-7137-452e-bbd8-d8c0032dc3c5",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 53.20,
+        "createdAt": "2018-07-06"
+      }
+    ]
+  },
+  {
+    "id": "e3d2fe1e-b151-42a4-8104-ba2f8b9ffd7e",
+    "fullName": "Neomi Franecki",
+    "phoneNumber": "825.623.1759",
+    "address": "Suite 318 2397 Dibbert Ferry, Lake Davidamouth, NY 31014-5920",
+    "createdAt": "2013-08-06",
+    "purchaseTransactions": [
+      {
+        "id": "6efb1b17-fc5c-4c4a-b4fd-987425819997",
+        "paymentType": "DINERS_CLUB",
+        "amount": 43.76,
+        "createdAt": "2018-06-11"
+      },
+      {
+        "id": "3435d144-6519-4725-bbdb-e4a095cc6fde",
+        "paymentType": "VISA",
+        "amount": 98.10,
+        "createdAt": "2013-08-10"
+      },
+      {
+        "id": "b60a3cd0-caaf-407d-86dc-4f082505e69b",
+        "paymentType": "SOLO",
+        "amount": 10.25,
+        "createdAt": "2016-10-14"
+      },
+      {
+        "id": "d03602d9-a3c3-40d4-a8d2-a1c4345c4520",
+        "paymentType": "SOLO",
+        "amount": 29.83,
+        "createdAt": "2018-02-21"
+      },
+      {
+        "id": "46b8af41-5886-4afb-98e3-90217e52724e",
+        "paymentType": "VISA",
+        "amount": 30.36,
+        "createdAt": "2016-01-30"
+      }
+    ]
+  },
+  {
+    "id": "1d4bb62d-f736-40c1-af38-a71a941c7f91",
+    "fullName": "Ivan Howe",
+    "phoneNumber": "178-792-6657",
+    "address": "466 Emard Squares, North Lindsyshire, AR 87310-2100",
+    "createdAt": "2019-07-23",
+    "purchaseTransactions": [
+      {
+        "id": "44a2879a-ae84-4780-b03a-afbdd7d7bfb5",
+        "paymentType": "SWITCH",
+        "amount": 78.25,
+        "createdAt": "2014-08-05"
+      },
+      {
+        "id": "4c2a64bc-368f-47ee-995c-8e6076c26293",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 52.05,
+        "createdAt": "2013-07-08"
+      },
+      {
+        "id": "39316116-93d9-4311-baa1-b93bbcf9353e",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 11.99,
+        "createdAt": "2015-11-14"
+      }
+    ]
+  },
+  {
+    "id": "6fda34a8-ab9b-4f3b-a47a-17de18f8639d",
+    "fullName": "Chet Wilderman",
+    "phoneNumber": "1-137-523-9284",
+    "address": "362 Feeney Pines, Rogahnville, TN 93089-1329",
+    "createdAt": "2020-06-14",
+    "purchaseTransactions": [
+      {
+        "id": "e8177e7b-c552-428a-9825-d6c1eb234af7",
+        "paymentType": "SOLO",
+        "amount": 43.64,
+        "createdAt": "2018-12-08"
+      },
+      {
+        "id": "412e83c3-c8e7-4f15-bafd-742ab85319d6",
+        "paymentType": "MASTERCARD",
+        "amount": 12.60,
+        "createdAt": "2021-10-30"
+      },
+      {
+        "id": "e716843e-5b06-4915-a2fb-dec709216d23",
+        "paymentType": "SOLO",
+        "amount": 36.14,
+        "createdAt": "2015-12-20"
+      }
+    ]
+  },
+  {
+    "id": "62e43dc3-1a20-4a87-ba18-f51705b9b6ad",
+    "fullName": "Aura Herzog",
+    "phoneNumber": "635-186-4789",
+    "address": "5636 Emmerich Via, Franeckiborough, TX 55298",
+    "createdAt": "2018-08-08",
+    "purchaseTransactions": [
+      {
+        "id": "d906ea00-6154-4d27-8bae-9b8aba497197",
+        "paymentType": "VISA",
+        "amount": 76.68,
+        "createdAt": "2013-07-08"
+      },
+      {
+        "id": "2696dd7b-e4d6-47e1-9e04-7a2dc26b2cba",
+        "paymentType": "DINERS_CLUB",
+        "amount": 63.89,
+        "createdAt": "2019-10-19"
+      },
+      {
+        "id": "b92cc0b8-2578-4115-8141-39d0ddd4c085",
+        "paymentType": "LASER",
+        "amount": 81.49,
+        "createdAt": "2013-05-05"
+      }
+    ]
+  },
+  {
+    "id": "673a9800-6f9e-4053-9be8-910e523d664d",
+    "fullName": "Robbi Torp DDS",
+    "phoneNumber": "716.217.1244",
+    "address": "Apt. 907 4263 Hahn Ridge, East Mindimouth, KY 52899",
+    "createdAt": "2018-05-13",
+    "purchaseTransactions": [
+      {
+        "id": "d7ae2cf1-7bf3-4299-a141-4ddb8eb83222",
+        "paymentType": "VISA",
+        "amount": 28.23,
+        "createdAt": "2019-10-19"
+      },
+      {
+        "id": "c3f4667c-52bb-412d-b6c6-f04a40049944",
+        "paymentType": "DINERS_CLUB",
+        "amount": 91.06,
+        "createdAt": "2018-08-18"
+      },
+      {
+        "id": "fe4682df-3e2b-43c0-a1fb-a5f6e4b1f61a",
+        "paymentType": "LASER",
+        "amount": 40.99,
+        "createdAt": "2016-06-01"
+      }
+    ]
+  },
+  {
+    "id": "af8cc6d0-901c-4a9d-b4f3-58e5798e9874",
+    "fullName": "Twila Ward",
+    "phoneNumber": "275-950-8697",
+    "address": "98184 Bode Junctions, East Alview, NC 53172-9050",
+    "createdAt": "2017-03-11",
+    "purchaseTransactions": [
+      {
+        "id": "b2fe2cca-3ee3-47be-9b13-e7170650cf97",
+        "paymentType": "MASTERCARD",
+        "amount": 58.25,
+        "createdAt": "2015-12-11"
+      },
+      {
+        "id": "b0c7ba58-6deb-429a-bf20-b583c26b98b2",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 65.55,
+        "createdAt": "2018-03-27"
+      },
+      {
+        "id": "56a6b1be-ab39-42f5-8e4f-a32a80b48afa",
+        "paymentType": "SOLO",
+        "amount": 13.22,
+        "createdAt": "2014-11-06"
+      },
+      {
+        "id": "e2835703-4eb7-4bf0-a62a-b4b248394fd1",
+        "paymentType": "LASER",
+        "amount": 54.23,
+        "createdAt": "2020-06-03"
+      },
+      {
+        "id": "fe64eb87-27a0-4450-95b3-c622a14dcb12",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 94.64,
+        "createdAt": "2014-09-19"
+      },
+      {
+        "id": "596c2f23-eab4-4e4d-860c-fd865a4b2385",
+        "paymentType": "DINERS_CLUB",
+        "amount": 37.30,
+        "createdAt": "2014-11-05"
+      },
+      {
+        "id": "0c4ea280-b453-4527-ab08-b231fb912340",
+        "paymentType": "LASER",
+        "amount": 3.80,
+        "createdAt": "2017-01-10"
+      }
+    ]
+  },
+  {
+    "id": "aed93faf-5ae8-460a-af61-dcd368a42785",
+    "fullName": "Mrs. Enrique Streich",
+    "phoneNumber": "026-136-6015",
+    "address": "Suite 899 15615 My Passage, Port Laciton, OR 22365",
+    "createdAt": "2014-02-16",
+    "purchaseTransactions": [
+      {
+        "id": "1e2d65e2-6ce7-4f26-aaee-35f81ba0cd88",
+        "paymentType": "MASTERCARD",
+        "amount": 75.54,
+        "createdAt": "2021-11-05"
+      },
+      {
+        "id": "a8fdbeaa-4c52-43af-aa9b-7eb6f22380b1",
+        "paymentType": "SOLO",
+        "amount": 69.23,
+        "createdAt": "2016-07-08"
+      },
+      {
+        "id": "01586db5-c192-430a-b650-8a40c1093177",
+        "paymentType": "SOLO",
+        "amount": 97.87,
+        "createdAt": "2021-09-03"
+      },
+      {
+        "id": "412d77e4-0786-468c-abfe-106659cec0a0",
+        "paymentType": "MASTERCARD",
+        "amount": 74.99,
+        "createdAt": "2020-07-13"
+      }
+    ]
+  },
+  {
+    "id": "1c0f8e34-5e63-4c2f-a582-24a151d082d8",
+    "fullName": "Junior Metz",
+    "phoneNumber": "(717) 202-2502",
+    "address": "Apt. 816 2013 Demetrius Motorway, North Mauricioborough, OH 57079",
+    "createdAt": "2019-07-29",
+    "purchaseTransactions": [
+      {
+        "id": "66d47253-1817-48fd-a155-c8e6187a07cc",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 70.41,
+        "createdAt": "2022-01-31"
+      },
+      {
+        "id": "315c6538-cfda-4880-b068-c10d7dd8111b",
+        "paymentType": "JCB",
+        "amount": 56.13,
+        "createdAt": "2019-07-17"
+      },
+      {
+        "id": "10a645c9-65a1-450d-90b1-8ab48643f80a",
+        "paymentType": "DINERS_CLUB",
+        "amount": 32.01,
+        "createdAt": "2017-02-25"
+      },
+      {
+        "id": "d9934161-e34f-4e68-a79b-d7fed8c37d01",
+        "paymentType": "JCB",
+        "amount": 27.90,
+        "createdAt": "2012-04-20"
+      },
+      {
+        "id": "703a2557-2da3-408e-8a7f-00e3bbe6ca9f",
+        "paymentType": "JCB",
+        "amount": 74.43,
+        "createdAt": "2014-08-16"
+      },
+      {
+        "id": "37d2a5ab-9b9c-4bb4-8ad9-793b8607e213",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 88.19,
+        "createdAt": "2012-10-22"
+      },
+      {
+        "id": "bfcf67e0-20dd-4839-ab09-5062648cef80",
+        "paymentType": "SOLO",
+        "amount": 49.26,
+        "createdAt": "2012-10-20"
+      }
+    ]
+  },
+  {
+    "id": "f2819ffa-6ae8-4992-af85-bd2665a092ab",
+    "fullName": "Eve Schowalter",
+    "phoneNumber": "213-009-9151",
+    "address": "16203 Hauck Parkway, Port Winfordville, NE 56932",
+    "createdAt": "2012-08-22",
+    "purchaseTransactions": [
+      {
+        "id": "278f8add-3105-47ef-92f3-af21112d7bfb",
+        "paymentType": "LASER",
+        "amount": 55.90,
+        "createdAt": "2021-02-07"
+      },
+      {
+        "id": "73cb762f-66b8-4d7e-9636-1289bb8d8aa4",
+        "paymentType": "DISCOVER",
+        "amount": 60.17,
+        "createdAt": "2022-02-15"
+      },
+      {
+        "id": "0b4e4521-487c-4ee9-9d7b-9f487458dedc",
+        "paymentType": "VISA",
+        "amount": 8.30,
+        "createdAt": "2017-07-16"
+      },
+      {
+        "id": "21fa6a77-fbe6-4f86-a1cd-93e8dd3d2715",
+        "paymentType": "VISA",
+        "amount": 36.71,
+        "createdAt": "2016-09-22"
+      },
+      {
+        "id": "fae736e5-844e-4a7d-88bb-d5241b9e64f3",
+        "paymentType": "SWITCH",
+        "amount": 35.04,
+        "createdAt": "2020-12-21"
+      },
+      {
+        "id": "b3bd58ab-84a2-4afb-bf8b-29d705441767",
+        "paymentType": "VISA",
+        "amount": 44.97,
+        "createdAt": "2018-07-01"
+      }
+    ]
+  },
+  {
+    "id": "446128a1-a234-49fb-a0e6-25aaba60962c",
+    "fullName": "Keisha Davis",
+    "phoneNumber": "1-943-552-0935",
+    "address": "34183 Lemuel Plaza, South Andriashire, FL 57167-9740",
+    "createdAt": "2018-03-28",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "05ebf49d-100c-44a8-a412-23560a1fb3d8",
+    "fullName": "Homer Marks MD",
+    "phoneNumber": "1-689-556-7378",
+    "address": "Apt. 473 93546 Sylvia Estates, New Arlean, WV 95809-0129",
+    "createdAt": "2014-09-10",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "600f2a7c-0ecb-434d-920e-d1a9087f254c",
+    "fullName": "Jon Mitchell",
+    "phoneNumber": "995.076.7835",
+    "address": "Apt. 547 35184 Bergstrom Valley, West Franklynberg, NC 22961-1201",
+    "createdAt": "2013-06-21",
+    "purchaseTransactions": [
+      {
+        "id": "abad8957-b03b-4461-9648-f69d0f162e9c",
+        "paymentType": "VISA",
+        "amount": 53.48,
+        "createdAt": "2012-05-06"
+      },
+      {
+        "id": "5812839f-6241-448d-9248-480fde0fb64b",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 71.16,
+        "createdAt": "2012-10-25"
+      },
+      {
+        "id": "0a0abd49-8108-4200-9b45-7ec23197ea60",
+        "paymentType": "DINERS_CLUB",
+        "amount": 96.98,
+        "createdAt": "2015-10-27"
+      },
+      {
+        "id": "db0266ba-3e09-45d7-bd74-a1bedf9d864e",
+        "paymentType": "VISA",
+        "amount": 58.38,
+        "createdAt": "2015-04-04"
+      }
+    ]
+  },
+  {
+    "id": "36691582-0897-4675-9dad-89954e595b33",
+    "fullName": "Esther MacGyver",
+    "phoneNumber": "(798) 449-4167",
+    "address": "206 Jonah Union, Baumbachview, FL 12011",
+    "createdAt": "2012-05-04",
+    "purchaseTransactions": [
+      {
+        "id": "0275bf27-fe3a-4f89-8f15-1fc389b1d8d8",
+        "paymentType": "MASTERCARD",
+        "amount": 66.98,
+        "createdAt": "2017-11-02"
+      },
+      {
+        "id": "01c84cbe-29c2-45ea-a6ec-6c8c38ba0970",
+        "paymentType": "DINERS_CLUB",
+        "amount": 35.41,
+        "createdAt": "2012-05-24"
+      },
+      {
+        "id": "3d61d1a5-c5ec-4295-9a22-812915a36c67",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 35.62,
+        "createdAt": "2012-07-08"
+      },
+      {
+        "id": "05a72bc0-272e-4802-b7a2-d50c40f942a0",
+        "paymentType": "LASER",
+        "amount": 4.68,
+        "createdAt": "2013-01-07"
+      },
+      {
+        "id": "33cc4e02-23d8-40de-b7b3-fd1347f4f01c",
+        "paymentType": "DINERS_CLUB",
+        "amount": 97.32,
+        "createdAt": "2018-08-11"
+      }
+    ]
+  },
+  {
+    "id": "f655e449-80b9-4963-876d-afe4cd8a180d",
+    "fullName": "Giovanni Crist",
+    "phoneNumber": "(718) 946-1447",
+    "address": "Suite 351 3143 Blanda Coves, Arielton, CT 75790",
+    "createdAt": "2017-08-01",
+    "purchaseTransactions": [
+      {
+        "id": "db535c82-5eeb-4264-8ae4-e01ac032d5ba",
+        "paymentType": "LASER",
+        "amount": 25.79,
+        "createdAt": "2013-01-31"
+      },
+      {
+        "id": "b9aa67fc-215d-4e05-822d-8ba91278ebb7",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 0.63,
+        "createdAt": "2013-01-13"
+      },
+      {
+        "id": "035835af-798e-4d13-97e6-f93a1c07bf52",
+        "paymentType": "SOLO",
+        "amount": 51.75,
+        "createdAt": "2015-10-18"
+      },
+      {
+        "id": "fdec36e4-5a9d-4ba8-bba1-e03b3f9fa54c",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 73.64,
+        "createdAt": "2018-02-19"
+      },
+      {
+        "id": "5e25d5d0-d688-41dd-a601-8e52746b5ebc",
+        "paymentType": "SWITCH",
+        "amount": 43.67,
+        "createdAt": "2020-02-13"
+      },
+      {
+        "id": "b1c903ae-fa5b-40d8-b281-e437e2c1fe32",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 90.99,
+        "createdAt": "2013-12-06"
+      },
+      {
+        "id": "d699e7ce-8a00-4a35-a0af-6de24004e675",
+        "paymentType": "LASER",
+        "amount": 25.99,
+        "createdAt": "2013-09-29"
+      },
+      {
+        "id": "41029d60-a78d-42ae-9418-ebdd343ab034",
+        "paymentType": "DISCOVER",
+        "amount": 75.72,
+        "createdAt": "2020-07-24"
+      }
+    ]
+  },
+  {
+    "id": "27757304-9a48-471d-9aac-dae9e4e29e12",
+    "fullName": "Loree Wolff II",
+    "phoneNumber": "789.500.0096",
+    "address": "Apt. 054 6117 Dwayne Mount, Hoegerview, HI 20536",
+    "createdAt": "2021-06-25",
+    "purchaseTransactions": [
+      {
+        "id": "83e32325-c988-4645-8b6d-908e45ee0914",
+        "paymentType": "VISA",
+        "amount": 24.82,
+        "createdAt": "2021-08-21"
+      },
+      {
+        "id": "895b71b6-c739-431c-af1c-d1e55e0b26cd",
+        "paymentType": "SWITCH",
+        "amount": 65.38,
+        "createdAt": "2014-04-30"
+      },
+      {
+        "id": "53b5bfcc-01cd-47e1-8302-18a60a4f5a00",
+        "paymentType": "SWITCH",
+        "amount": 47.41,
+        "createdAt": "2021-11-24"
+      },
+      {
+        "id": "1c089011-fb33-42dd-991a-f0898b369bca",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 30.51,
+        "createdAt": "2013-07-18"
+      }
+    ]
+  },
+  {
+    "id": "a586f355-9db1-4ebc-9773-d457e0ad1956",
+    "fullName": "Ian Schulist V",
+    "phoneNumber": "564-165-2981",
+    "address": "9311 Wilson Center, Port Eldoraside, AL 16238",
+    "createdAt": "2018-02-05",
+    "purchaseTransactions": [
+      {
+        "id": "fd5f79f9-3aba-49af-8528-13d200e5283e",
+        "paymentType": "SWITCH",
+        "amount": 79.33,
+        "createdAt": "2021-11-17"
+      },
+      {
+        "id": "6a19c871-c9b6-47fd-a5e4-2fbe99f4d2ba",
+        "paymentType": "JCB",
+        "amount": 45.04,
+        "createdAt": "2016-06-24"
+      },
+      {
+        "id": "4b4431fd-6866-4cc2-9a29-d23f88a323b6",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 55.07,
+        "createdAt": "2015-07-06"
+      }
+    ]
+  },
+  {
+    "id": "60066831-80fd-4e42-bbec-4d05f888bde3",
+    "fullName": "Angel Bruen",
+    "phoneNumber": "1-944-769-0516",
+    "address": "Apt. 825 251 Martha Crossroad, Rathburgh, ID 03834-4705",
+    "createdAt": "2019-01-25",
+    "purchaseTransactions": [
+      {
+        "id": "9eba243e-316f-4ab5-af29-3d47d9262417",
+        "paymentType": "DANKORT",
+        "amount": 37.35,
+        "createdAt": "2019-05-05"
+      },
+      {
+        "id": "378520c6-525f-4800-910c-80ff5f29c057",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 62.63,
+        "createdAt": "2018-12-08"
+      },
+      {
+        "id": "ad91c7ea-2722-422b-ad8b-78b9238122a3",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 26.18,
+        "createdAt": "2021-10-23"
+      },
+      {
+        "id": "2f466fae-c14d-429c-ac7e-c5eb12a1be5b",
+        "paymentType": "SWITCH",
+        "amount": 47.97,
+        "createdAt": "2014-05-27"
+      },
+      {
+        "id": "8e1927a8-6cd1-461b-a7aa-9a6d2792de43",
+        "paymentType": "SWITCH",
+        "amount": 58.67,
+        "createdAt": "2017-07-01"
+      },
+      {
+        "id": "1299826e-b8e6-4908-9ce3-9bc97f1e0cc1",
+        "paymentType": "MASTERCARD",
+        "amount": 87.28,
+        "createdAt": "2012-05-06"
+      },
+      {
+        "id": "91072c78-fcff-4b3e-857e-ca411343a94b",
+        "paymentType": "DINERS_CLUB",
+        "amount": 63.43,
+        "createdAt": "2021-06-23"
+      },
+      {
+        "id": "1ff47371-140c-4cb2-94c8-eb7c7a34ad5c",
+        "paymentType": "LASER",
+        "amount": 79.75,
+        "createdAt": "2021-03-13"
+      },
+      {
+        "id": "79a8073c-0035-4ace-9659-34dcbcb8a7cc",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 57.96,
+        "createdAt": "2015-04-03"
+      }
+    ]
+  },
+  {
+    "id": "bf46c935-ffa9-43b3-a1be-d8b14a63780d",
+    "fullName": "Dr. Lane Jerde",
+    "phoneNumber": "321.920.1377",
+    "address": "7521 Hyun Plaza, Elizaside, OH 52190",
+    "createdAt": "2013-10-04",
+    "purchaseTransactions": [
+      {
+        "id": "339041d2-78fc-4a3a-80fe-1fe6861ddd8b",
+        "paymentType": "DISCOVER",
+        "amount": 51.37,
+        "createdAt": "2012-11-17"
+      },
+      {
+        "id": "30b02cb7-6ab9-4bcc-976a-cc10914076cd",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 39.17,
+        "createdAt": "2013-11-05"
+      },
+      {
+        "id": "71f96a72-c5d2-4a0e-be57-0509e11bca12",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 0.02,
+        "createdAt": "2016-11-26"
+      },
+      {
+        "id": "8a1a26e3-b4f4-47d5-8c41-66bc815653a7",
+        "paymentType": "SOLO",
+        "amount": 99.13,
+        "createdAt": "2020-11-14"
+      },
+      {
+        "id": "dde76948-a8e5-44b6-abfb-8457cbea3e74",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 29.03,
+        "createdAt": "2018-08-19"
+      },
+      {
+        "id": "20331483-44e2-432c-9e16-852d089c8c9f",
+        "paymentType": "DINERS_CLUB",
+        "amount": 64.06,
+        "createdAt": "2015-06-27"
+      }
+    ]
+  },
+  {
+    "id": "c3734a66-27f9-462e-b701-45b9dd44b6f3",
+    "fullName": "Allen Miller",
+    "phoneNumber": "(777) 182-1857",
+    "address": "790 Schultz Square, Blickport, MN 94193-0901",
+    "createdAt": "2020-01-15",
+    "purchaseTransactions": [
+      {
+        "id": "4795bf64-a42a-4f65-8e10-7182865e8d7f",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 90.81,
+        "createdAt": "2015-12-09"
+      },
+      {
+        "id": "66ff5424-85cf-4929-974b-54acf8112ef0",
+        "paymentType": "SWITCH",
+        "amount": 76.62,
+        "createdAt": "2013-08-06"
+      },
+      {
+        "id": "5067a78f-20ff-4ee5-9e2f-632f6fd7ef25",
+        "paymentType": "SWITCH",
+        "amount": 5.71,
+        "createdAt": "2013-04-27"
+      },
+      {
+        "id": "6687a00c-4c12-4c0a-8b56-495c3e10392c",
+        "paymentType": "DISCOVER",
+        "amount": 94.88,
+        "createdAt": "2021-04-13"
+      },
+      {
+        "id": "3dd9d377-d8b5-490a-a31f-bfe8951969a3",
+        "paymentType": "VISA",
+        "amount": 20.69,
+        "createdAt": "2019-05-18"
+      },
+      {
+        "id": "989e37b4-eb2a-4bc9-b8e9-3ab35d9a95ff",
+        "paymentType": "VISA",
+        "amount": 81.67,
+        "createdAt": "2021-10-17"
+      }
+    ]
+  },
+  {
+    "id": "5fcc40c4-c5f9-43d9-8c87-a0c5afbc3db3",
+    "fullName": "Brady Skiles",
+    "phoneNumber": "203-054-4508",
+    "address": "Apt. 612 67705 Dominick River, West Woodrowburgh, IN 16607-9809",
+    "createdAt": "2022-02-03",
+    "purchaseTransactions": [
+      {
+        "id": "eabcfd1b-f388-4fde-84cc-d62b69a97dac",
+        "paymentType": "LASER",
+        "amount": 8.07,
+        "createdAt": "2016-07-09"
+      },
+      {
+        "id": "5e668cb6-4980-4dad-a0d2-b3b5a4e4401b",
+        "paymentType": "MASTERCARD",
+        "amount": 75.19,
+        "createdAt": "2014-01-01"
+      }
+    ]
+  },
+  {
+    "id": "8ce0cba6-f749-4c17-bb2a-8be6404ae023",
+    "fullName": "Clemente Raynor",
+    "phoneNumber": "(455) 327-9945",
+    "address": "623 Toy Parks, South Robertomouth, NE 52084-5819",
+    "createdAt": "2019-01-30",
+    "purchaseTransactions": [
+      {
+        "id": "dbbf73bb-470e-4e66-92f0-ad1219fd22b8",
+        "paymentType": "DANKORT",
+        "amount": 9.52,
+        "createdAt": "2020-03-04"
+      },
+      {
+        "id": "e462d83d-de7e-4995-a647-39a754c24504",
+        "paymentType": "MASTERCARD",
+        "amount": 52.14,
+        "createdAt": "2015-02-25"
+      }
+    ]
+  },
+  {
+    "id": "06967f4c-d7bc-4da7-afbc-972099a8276b",
+    "fullName": "Dr. Deandre Mosciski",
+    "phoneNumber": "(322) 955-4865",
+    "address": "Apt. 317 2229 Sawayn Prairie, Kilbackborough, NV 42173-5180",
+    "createdAt": "2021-12-31",
+    "purchaseTransactions": [
+      {
+        "id": "164016ac-00ed-4485-8bff-3e8f8c6dcd70",
+        "paymentType": "JCB",
+        "amount": 30.60,
+        "createdAt": "2017-02-28"
+      },
+      {
+        "id": "fbfb2935-4d25-4622-9f90-99ff37e487f1",
+        "paymentType": "LASER",
+        "amount": 71.12,
+        "createdAt": "2016-11-07"
+      },
+      {
+        "id": "66bd9789-d945-4593-9b30-a3771e15b2dd",
+        "paymentType": "MASTERCARD",
+        "amount": 81.41,
+        "createdAt": "2018-12-27"
+      },
+      {
+        "id": "aac80cc6-7e29-4545-9bcb-88d1a7baed16",
+        "paymentType": "DISCOVER",
+        "amount": 54.34,
+        "createdAt": "2015-01-05"
+      },
+      {
+        "id": "88600ff4-0f11-4b7c-90bf-f73f1b10ed31",
+        "paymentType": "MASTERCARD",
+        "amount": 1.39,
+        "createdAt": "2014-12-20"
+      },
+      {
+        "id": "5915a6da-0090-456d-a4f1-192d56264d23",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 18.54,
+        "createdAt": "2018-03-20"
+      },
+      {
+        "id": "b5592391-6241-46ff-babc-0c27fdd575c7",
+        "paymentType": "LASER",
+        "amount": 97.24,
+        "createdAt": "2015-07-26"
+      },
+      {
+        "id": "6ecce779-e6ed-4f1b-9456-bdca9b679cae",
+        "paymentType": "MASTERCARD",
+        "amount": 49.25,
+        "createdAt": "2012-10-30"
+      }
+    ]
+  },
+  {
+    "id": "04488657-3fa9-47b9-a10f-73f2193ae0ec",
+    "fullName": "Miles Bernier",
+    "phoneNumber": "184.723.1352",
+    "address": "66624 Stoltenberg Island, Carrollside, NM 59410-8765",
+    "createdAt": "2018-05-14",
+    "purchaseTransactions": [
+      {
+        "id": "452e73da-25bb-43ed-b45b-5477c4766010",
+        "paymentType": "MASTERCARD",
+        "amount": 43.24,
+        "createdAt": "2020-07-11"
+      },
+      {
+        "id": "a6b5ae31-2d39-4d9d-a7c3-5bbd7ee064a3",
+        "paymentType": "LASER",
+        "amount": 91.49,
+        "createdAt": "2014-05-23"
+      },
+      {
+        "id": "0ca1ff7b-1fb0-456d-99e0-8dadfc999cd4",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 34.90,
+        "createdAt": "2017-05-16"
+      },
+      {
+        "id": "8dbd55da-9cc8-44e3-b5f1-798419c62e04",
+        "paymentType": "DINERS_CLUB",
+        "amount": 17.44,
+        "createdAt": "2014-12-01"
+      },
+      {
+        "id": "eff024be-bc8b-4810-9830-be10fad074b6",
+        "paymentType": "LASER",
+        "amount": 95.97,
+        "createdAt": "2019-12-21"
+      },
+      {
+        "id": "71d73979-befe-42ff-bf19-6ae251d27fba",
+        "paymentType": "DANKORT",
+        "amount": 24.61,
+        "createdAt": "2021-06-13"
+      },
+      {
+        "id": "ffc76486-9be1-441c-9d9e-2065a69e6cc8",
+        "paymentType": "VISA",
+        "amount": 61.15,
+        "createdAt": "2016-12-12"
+      }
+    ]
+  },
+  {
+    "id": "5e5c113d-ab89-4f41-a7a4-1518a29b8777",
+    "fullName": "Graham Koch",
+    "phoneNumber": "117.729.2895",
+    "address": "Suite 578 783 Allen Ranch, Schultzbury, NV 10705-2824",
+    "createdAt": "2015-07-26",
+    "purchaseTransactions": [
+      {
+        "id": "eb74cc27-cd36-420f-8a92-37c28043ff3e",
+        "paymentType": "DISCOVER",
+        "amount": 30.79,
+        "createdAt": "2021-05-12"
+      },
+      {
+        "id": "1c0a9c45-d1af-4d6a-81b3-a863af4f634f",
+        "paymentType": "LASER",
+        "amount": 18.70,
+        "createdAt": "2017-05-08"
+      },
+      {
+        "id": "ea07337e-a582-4b38-82f8-46757680ba17",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 32.04,
+        "createdAt": "2021-12-21"
+      },
+      {
+        "id": "966e444a-6c65-4788-ac53-dc59e9c2a815",
+        "paymentType": "SWITCH",
+        "amount": 80.89,
+        "createdAt": "2012-12-17"
+      },
+      {
+        "id": "d8453f29-474c-4a8b-b614-09a597109f58",
+        "paymentType": "MASTERCARD",
+        "amount": 58.32,
+        "createdAt": "2012-11-15"
+      },
+      {
+        "id": "e26c5afc-e18d-41c9-9f83-483928025f11",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 71.06,
+        "createdAt": "2018-08-26"
+      },
+      {
+        "id": "53b179fb-10c7-42a1-ad6c-11ad01b33bc9",
+        "paymentType": "DINERS_CLUB",
+        "amount": 72.54,
+        "createdAt": "2020-06-07"
+      }
+    ]
+  },
+  {
+    "id": "66775cd7-de0a-4d8c-9701-25a35349858d",
+    "fullName": "Cornell Borer",
+    "phoneNumber": "236-458-9950",
+    "address": "Apt. 584 3555 Lajuana Union, Forrestchester, WA 98487-8431",
+    "createdAt": "2017-08-22",
+    "purchaseTransactions": [
+      {
+        "id": "05ec3a60-c151-40a2-9df2-4c5657ddda45",
+        "paymentType": "SWITCH",
+        "amount": 71.92,
+        "createdAt": "2018-01-26"
+      },
+      {
+        "id": "bd0458a7-a1ea-44ed-b9d9-49d22ea42803",
+        "paymentType": "DINERS_CLUB",
+        "amount": 57.50,
+        "createdAt": "2020-05-07"
+      },
+      {
+        "id": "be7e0af7-d12a-4165-9502-860fc9f0b60d",
+        "paymentType": "LASER",
+        "amount": 3.36,
+        "createdAt": "2017-06-07"
+      },
+      {
+        "id": "f159c21f-66c0-4ff1-89b5-f51700b66063",
+        "paymentType": "MASTERCARD",
+        "amount": 62.48,
+        "createdAt": "2020-09-21"
+      },
+      {
+        "id": "08ade952-8420-4907-8950-aabd5688088e",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 18.29,
+        "createdAt": "2021-01-10"
+      },
+      {
+        "id": "9c3cfa4a-ff06-424a-971f-27104a625916",
+        "paymentType": "SOLO",
+        "amount": 35.34,
+        "createdAt": "2017-04-21"
+      },
+      {
+        "id": "956b0374-5561-4802-94d6-9b01071266ed",
+        "paymentType": "SWITCH",
+        "amount": 99.60,
+        "createdAt": "2015-10-21"
+      },
+      {
+        "id": "a723eb83-1224-4cfa-affb-8f914d18b7b7",
+        "paymentType": "SWITCH",
+        "amount": 7.21,
+        "createdAt": "2016-10-19"
+      },
+      {
+        "id": "ead3ee0d-32ee-416e-a72c-16d7a3fe75d0",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 48.41,
+        "createdAt": "2021-02-20"
+      }
+    ]
+  },
+  {
+    "id": "aa69bcf0-bc7f-4914-90c5-43484736d593",
+    "fullName": "Glynda Russel",
+    "phoneNumber": "(331) 182-1057",
+    "address": "8087 Jodi Fall, Bednarfort, HI 18612-3644",
+    "createdAt": "2016-02-28",
+    "purchaseTransactions": [
+      {
+        "id": "50d3ba19-c1e4-4d00-9d1c-fb3ff8c4f1cf",
+        "paymentType": "DISCOVER",
+        "amount": 57.06,
+        "createdAt": "2017-08-10"
+      },
+      {
+        "id": "679d448c-df10-4a48-9f39-9cdebfd2934b",
+        "paymentType": "DANKORT",
+        "amount": 17.08,
+        "createdAt": "2012-12-24"
+      },
+      {
+        "id": "18761960-b4bb-4bb1-ba83-5d3afd78c5d9",
+        "paymentType": "VISA",
+        "amount": 48.17,
+        "createdAt": "2013-06-20"
+      },
+      {
+        "id": "b165281f-e37d-4ecf-a5c9-ef6af787e42d",
+        "paymentType": "MASTERCARD",
+        "amount": 38.22,
+        "createdAt": "2018-04-18"
+      },
+      {
+        "id": "d33c6649-bf38-4c96-b2f9-2fb155474ec5",
+        "paymentType": "LASER",
+        "amount": 69.81,
+        "createdAt": "2019-07-27"
+      },
+      {
+        "id": "ba4506b5-7772-4ff7-aaa0-ad1abe3ebaa0",
+        "paymentType": "MASTERCARD",
+        "amount": 66.69,
+        "createdAt": "2020-03-25"
+      },
+      {
+        "id": "7ae85c18-f553-4914-9f8e-aa73f78f002f",
+        "paymentType": "SOLO",
+        "amount": 41.55,
+        "createdAt": "2021-06-07"
+      },
+      {
+        "id": "03a1bda5-e592-4c38-b363-ef8ecac618df",
+        "paymentType": "DANKORT",
+        "amount": 7.67,
+        "createdAt": "2014-03-13"
+      },
+      {
+        "id": "600949e9-d495-445b-aa10-b71a55f8ff10",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 87.48,
+        "createdAt": "2016-08-10"
+      }
+    ]
+  },
+  {
+    "id": "14fc4156-a2e1-4607-9c86-0b3f046ef324",
+    "fullName": "Vinnie Wolf",
+    "phoneNumber": "1-628-766-7926",
+    "address": "Suite 782 4006 Gusikowski Pike, Lake Milanmouth, AZ 63588-0937",
+    "createdAt": "2020-07-21",
+    "purchaseTransactions": [
+      {
+        "id": "306002a3-46d2-4243-9a72-9d77a36bc21c",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 22.75,
+        "createdAt": "2020-06-13"
+      },
+      {
+        "id": "09db0f9a-7586-4f99-a9fc-c79527d92618",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 77.85,
+        "createdAt": "2013-12-06"
+      },
+      {
+        "id": "2b2d994b-2360-471e-80e1-5e2e9dc3e55c",
+        "paymentType": "SOLO",
+        "amount": 49.17,
+        "createdAt": "2019-11-27"
+      },
+      {
+        "id": "9b471bc8-7193-4de0-9a09-58ddab2c1b6b",
+        "paymentType": "MASTERCARD",
+        "amount": 21.01,
+        "createdAt": "2020-09-25"
+      },
+      {
+        "id": "c9917ea2-2c93-4b5a-a567-d2a2c3f4375b",
+        "paymentType": "SWITCH",
+        "amount": 50.35,
+        "createdAt": "2019-08-31"
+      },
+      {
+        "id": "2a80b0d0-4f9c-4538-b829-4539a226250c",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 39.63,
+        "createdAt": "2017-03-27"
+      }
+    ]
+  },
+  {
+    "id": "529a078a-8dda-476c-9060-6f6c913dad8b",
+    "fullName": "Cornell Heathcote",
+    "phoneNumber": "(588) 790-2356",
+    "address": "4069 Sharice Tunnel, Port Linda, GA 26764",
+    "createdAt": "2017-02-20",
+    "purchaseTransactions": [
+      {
+        "id": "d81a35c5-7e7c-431b-85f6-021bf9d8db0e",
+        "paymentType": "SOLO",
+        "amount": 18.19,
+        "createdAt": "2019-04-29"
+      }
+    ]
+  },
+  {
+    "id": "a367a6d5-7ec7-4d60-9343-8922a378970e",
+    "fullName": "Wynell O'Hara",
+    "phoneNumber": "451.974.4105",
+    "address": "4452 Veum Mount, Jackelineside, PA 23631-6971",
+    "createdAt": "2020-02-05",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "84e513e1-1906-48f9-a6d7-cf64db5267c2",
+    "fullName": "Thuy Parisian PhD",
+    "phoneNumber": "(780) 556-2345",
+    "address": "383 Caryl Flats, Cherilynberg, AZ 40894",
+    "createdAt": "2015-11-17",
+    "purchaseTransactions": [
+      {
+        "id": "43fb0fcb-41e3-4e0a-a673-95ddf7b10063",
+        "paymentType": "LASER",
+        "amount": 36.92,
+        "createdAt": "2015-03-07"
+      },
+      {
+        "id": "72a05f67-c81e-46bc-ad53-291f2502ddf7",
+        "paymentType": "VISA",
+        "amount": 42.97,
+        "createdAt": "2017-07-18"
+      },
+      {
+        "id": "a1d2371a-bc78-4993-87d1-5f8d2a8155ce",
+        "paymentType": "SOLO",
+        "amount": 10.00,
+        "createdAt": "2020-03-24"
+      },
+      {
+        "id": "4e361757-c390-42b3-9e86-9c16d3da9913",
+        "paymentType": "SWITCH",
+        "amount": 64.71,
+        "createdAt": "2022-02-09"
+      }
+    ]
+  },
+  {
+    "id": "d9645c44-277d-488e-b007-16d89403e9d0",
+    "fullName": "Stewart Bartoletti",
+    "phoneNumber": "761-087-6966",
+    "address": "Apt. 173 6120 Morar Underpass, Raymonmouth, ME 17798",
+    "createdAt": "2014-11-07",
+    "purchaseTransactions": [
+      {
+        "id": "6f723f77-ae7a-4391-b5ad-3c8b4ee4f408",
+        "paymentType": "SOLO",
+        "amount": 78.68,
+        "createdAt": "2020-12-23"
+      },
+      {
+        "id": "4d1dfc72-ccef-46ab-9a92-81f124d9fedd",
+        "paymentType": "VISA",
+        "amount": 65.82,
+        "createdAt": "2016-10-20"
+      },
+      {
+        "id": "8f13830d-c09a-4cd9-a611-bf0b2480cfe9",
+        "paymentType": "LASER",
+        "amount": 27.96,
+        "createdAt": "2015-12-17"
+      },
+      {
+        "id": "4b777be8-6f1a-4b7d-af58-c04dcda10450",
+        "paymentType": "DISCOVER",
+        "amount": 28.77,
+        "createdAt": "2016-10-01"
+      }
+    ]
+  },
+  {
+    "id": "45f692a7-c83d-4a0c-8a12-5828f1a79c59",
+    "fullName": "Thelma Barton",
+    "phoneNumber": "(944) 496-7402",
+    "address": "087 Jacque Cliff, East Chana, RI 42592",
+    "createdAt": "2014-05-07",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "65a747b2-6d96-4866-8754-19e56c7dfc49",
+    "fullName": "Giovanni Schuster II",
+    "phoneNumber": "1-047-066-5092",
+    "address": "Apt. 391 8820 Huels Pike, Bahringerland, IL 77523",
+    "createdAt": "2015-09-09",
+    "purchaseTransactions": [
+      {
+        "id": "2978d313-32e7-4dec-b44d-b282418d67fc",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 95.08,
+        "createdAt": "2015-04-04"
+      },
+      {
+        "id": "c3da09ab-078f-481d-aacd-d8564fea1409",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 18.62,
+        "createdAt": "2013-09-11"
+      },
+      {
+        "id": "de3535ea-ccdb-4cac-8f14-f00210a1e913",
+        "paymentType": "DISCOVER",
+        "amount": 2.35,
+        "createdAt": "2012-12-19"
+      },
+      {
+        "id": "bc9707e2-782a-4d8c-a41b-378a68df9b1d",
+        "paymentType": "VISA",
+        "amount": 15.39,
+        "createdAt": "2013-10-18"
+      }
+    ]
+  },
+  {
+    "id": "5561b9d6-2fdb-4e18-b1f7-32fd3f1ab375",
+    "fullName": "Adrian Casper",
+    "phoneNumber": "(485) 152-3867",
+    "address": "Apt. 375 2615 Eric Run, Lake Meaganburgh, LA 24591",
+    "createdAt": "2020-11-21",
+    "purchaseTransactions": [
+      {
+        "id": "eff139c2-8144-4f73-bb4f-97c5a71af867",
+        "paymentType": "DANKORT",
+        "amount": 71.82,
+        "createdAt": "2018-04-14"
+      },
+      {
+        "id": "3ad54a9a-173b-4253-bba9-b34fcf33fc51",
+        "paymentType": "DISCOVER",
+        "amount": 55.56,
+        "createdAt": "2018-11-26"
+      },
+      {
+        "id": "fbfe646d-eca9-4060-9a55-9d5707c8c227",
+        "paymentType": "DISCOVER",
+        "amount": 58.47,
+        "createdAt": "2013-05-11"
+      },
+      {
+        "id": "dd45f3e3-297a-461c-80e4-84527ac5c58e",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 96.36,
+        "createdAt": "2018-04-19"
+      },
+      {
+        "id": "de4c2d86-533b-45c5-af76-066acb68840a",
+        "paymentType": "DINERS_CLUB",
+        "amount": 1.91,
+        "createdAt": "2017-04-07"
+      }
+    ]
+  },
+  {
+    "id": "2934a198-2e6a-4936-8738-e2067a9c10b4",
+    "fullName": "Annelle O'Connell V",
+    "phoneNumber": "824.426.0825",
+    "address": "Suite 409 740 Kutch Ford, West Rodrick, OK 28252-3318",
+    "createdAt": "2018-06-15",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "69f71943-406d-4522-9c36-744ec00760d1",
+    "fullName": "Bill O'Conner",
+    "phoneNumber": "(430) 284-6880",
+    "address": "90159 Marylynn Freeway, Buckridgefort, ND 76187",
+    "createdAt": "2014-11-21",
+    "purchaseTransactions": [
+      {
+        "id": "b9a3bebc-3a40-4d27-9d7a-893de6a5308f",
+        "paymentType": "DINERS_CLUB",
+        "amount": 18.33,
+        "createdAt": "2013-04-30"
+      },
+      {
+        "id": "06e12681-014d-472d-b8b5-a98edb41cd72",
+        "paymentType": "DANKORT",
+        "amount": 52.66,
+        "createdAt": "2018-03-23"
+      }
+    ]
+  },
+  {
+    "id": "4bdb9128-a659-4fbc-a76c-08261a4d4ce2",
+    "fullName": "Ms. Veronika Kemmer",
+    "phoneNumber": "1-811-313-8483",
+    "address": "Suite 579 0575 Stamm Harbor, Audraside, OR 57972-3546",
+    "createdAt": "2016-06-23",
+    "purchaseTransactions": [
+      {
+        "id": "50771028-63e1-4cf3-b850-b85d4f64b4c6",
+        "paymentType": "SWITCH",
+        "amount": 82.13,
+        "createdAt": "2016-12-15"
+      }
+    ]
+  },
+  {
+    "id": "57b642d0-7e38-4bf3-928a-f162f452e3eb",
+    "fullName": "Miss Dave Stokes",
+    "phoneNumber": "1-671-134-1910",
+    "address": "Apt. 483 01572 Tamekia Cliffs, Ricetown, NE 64170-4365",
+    "createdAt": "2014-11-07",
+    "purchaseTransactions": [
+      {
+        "id": "2d2f0e72-4003-4ce7-a5d2-c4f9d474687a",
+        "paymentType": "LASER",
+        "amount": 47.79,
+        "createdAt": "2018-04-15"
+      },
+      {
+        "id": "9ace1e97-fff1-4967-bcb0-ef1c7126fde0",
+        "paymentType": "MASTERCARD",
+        "amount": 98.57,
+        "createdAt": "2018-11-20"
+      },
+      {
+        "id": "0cbc6fbe-5ea1-4c57-9f63-934b4a324226",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 92.14,
+        "createdAt": "2014-07-14"
+      },
+      {
+        "id": "92e6e179-7c5e-44a0-aa3e-8f41c91c1afc",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 74.98,
+        "createdAt": "2012-05-10"
+      },
+      {
+        "id": "aeedb7b9-d3f9-48ce-a70b-078a7521db67",
+        "paymentType": "VISA",
+        "amount": 77.79,
+        "createdAt": "2017-05-21"
+      }
+    ]
+  },
+  {
+    "id": "61c63028-63e6-450b-9096-fbd8b324b328",
+    "fullName": "Miss Maryln Jones",
+    "phoneNumber": "(334) 001-7900",
+    "address": "Apt. 784 685 Vern Shoal, South Leonardobury, SD 99200-5097",
+    "createdAt": "2016-09-21",
+    "purchaseTransactions": [
+      {
+        "id": "57ba505f-a384-4b94-8a3d-119cdd2c110d",
+        "paymentType": "SOLO",
+        "amount": 16.37,
+        "createdAt": "2013-05-16"
+      },
+      {
+        "id": "6186c991-fd05-474f-a440-580895a68e39",
+        "paymentType": "MASTERCARD",
+        "amount": 32.80,
+        "createdAt": "2014-09-01"
+      }
+    ]
+  },
+  {
+    "id": "8ebc6a42-9203-4015-82d0-d1e85b8e3fbf",
+    "fullName": "Walker Haley Jr.",
+    "phoneNumber": "(372) 492-5125",
+    "address": "Suite 620 269 Kshlerin Causeway, East Willton, CA 05630-8244",
+    "createdAt": "2014-03-04",
+    "purchaseTransactions": [
+      {
+        "id": "e30c79d9-bfe8-494a-8541-3921cb2e423b",
+        "paymentType": "SOLO",
+        "amount": 40.84,
+        "createdAt": "2018-05-22"
+      },
+      {
+        "id": "3661842d-2311-443c-9fa5-36fb852ff1bb",
+        "paymentType": "JCB",
+        "amount": 71.29,
+        "createdAt": "2019-05-29"
+      }
+    ]
+  },
+  {
+    "id": "3ed52b14-5707-409f-adeb-fe5a6db5b602",
+    "fullName": "Marvin Zboncak DVM",
+    "phoneNumber": "(362) 609-4958",
+    "address": "8381 Donnelly Summit, Daisyborough, IA 13236-6664",
+    "createdAt": "2015-06-22",
+    "purchaseTransactions": [
+      {
+        "id": "0a9c7fdf-e20d-47c1-a4f7-175f023c6161",
+        "paymentType": "DISCOVER",
+        "amount": 74.91,
+        "createdAt": "2021-06-05"
+      },
+      {
+        "id": "2f057853-23ae-46bc-8538-eca148db2a4a",
+        "paymentType": "SWITCH",
+        "amount": 25.50,
+        "createdAt": "2015-06-02"
+      },
+      {
+        "id": "a71c3e06-e385-4070-9353-32162f04c7d8",
+        "paymentType": "DISCOVER",
+        "amount": 46.10,
+        "createdAt": "2015-04-19"
+      },
+      {
+        "id": "356c2d98-6c63-4c7b-aa1f-3265e96f57e1",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 13.62,
+        "createdAt": "2019-05-24"
+      },
+      {
+        "id": "8005e11a-f8a5-4365-a35c-dd5400cafea7",
+        "paymentType": "DINERS_CLUB",
+        "amount": 46.12,
+        "createdAt": "2021-10-16"
+      },
+      {
+        "id": "3816dfe2-e0a5-4085-90e5-d17528ee36ee",
+        "paymentType": "DINERS_CLUB",
+        "amount": 83.69,
+        "createdAt": "2016-02-27"
+      },
+      {
+        "id": "6dc1c5ed-e58b-44b6-91de-a0ee8dc2c5a0",
+        "paymentType": "DANKORT",
+        "amount": 51.51,
+        "createdAt": "2014-07-16"
+      }
+    ]
+  },
+  {
+    "id": "02346f3a-ce9d-4f6e-9f6c-2d130abb5c43",
+    "fullName": "Aubrey Mayert",
+    "phoneNumber": "355-536-1182",
+    "address": "757 Ermelinda Coves, Lake Treytown, CT 93982-4083",
+    "createdAt": "2022-02-25",
+    "purchaseTransactions": [
+      {
+        "id": "dae457bc-257a-4483-9a6b-caf10c79d38f",
+        "paymentType": "MASTERCARD",
+        "amount": 39.71,
+        "createdAt": "2016-06-05"
+      },
+      {
+        "id": "985b44a9-f4d3-4649-934e-95817af869c7",
+        "paymentType": "LASER",
+        "amount": 30.44,
+        "createdAt": "2017-02-20"
+      },
+      {
+        "id": "d71511e5-e180-46c2-b4d3-4f2bb7e033dd",
+        "paymentType": "VISA",
+        "amount": 43.37,
+        "createdAt": "2015-02-26"
+      },
+      {
+        "id": "404efd8a-3445-4262-8aba-cee84e8df22e",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 9.10,
+        "createdAt": "2015-05-17"
+      },
+      {
+        "id": "7af5a44d-678f-4064-9fea-5999fb7ece13",
+        "paymentType": "VISA",
+        "amount": 30.15,
+        "createdAt": "2012-05-09"
+      },
+      {
+        "id": "bd004170-ac11-4fba-91db-c3ee6b05a656",
+        "paymentType": "LASER",
+        "amount": 77.88,
+        "createdAt": "2017-08-27"
+      },
+      {
+        "id": "3346a222-3d92-443b-ac21-68f7668b6cf0",
+        "paymentType": "DINERS_CLUB",
+        "amount": 45.45,
+        "createdAt": "2015-12-10"
+      }
+    ]
+  },
+  {
+    "id": "3b5e0557-fbe4-454e-8877-36029c5ad0c0",
+    "fullName": "Heike Wiza",
+    "phoneNumber": "1-451-099-5313",
+    "address": "84666 Farrell Cape, Lyleside, TX 40018",
+    "createdAt": "2014-07-07",
+    "purchaseTransactions": [
+      {
+        "id": "b6b2ebc2-6ac6-4e0e-922f-c3546e46b3fc",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 30.58,
+        "createdAt": "2013-12-06"
+      },
+      {
+        "id": "6a610194-caf2-4c82-a82a-f5cc4053f9b9",
+        "paymentType": "SOLO",
+        "amount": 99.37,
+        "createdAt": "2013-01-09"
+      },
+      {
+        "id": "bbd3d17b-df1e-4fe9-8663-2bc02df1f3e9",
+        "paymentType": "LASER",
+        "amount": 20.45,
+        "createdAt": "2014-12-13"
+      },
+      {
+        "id": "3dba79f6-98f1-40cc-b0ed-470b5b3284d5",
+        "paymentType": "LASER",
+        "amount": 97.65,
+        "createdAt": "2016-05-01"
+      }
+    ]
+  },
+  {
+    "id": "806afbab-31e1-42cf-b1f2-66de9b348efb",
+    "fullName": "Bulah McLaughlin",
+    "phoneNumber": "(362) 845-6962",
+    "address": "Apt. 662 699 Funk Canyon, Port Charleyland, GA 21718",
+    "createdAt": "2022-01-18",
+    "purchaseTransactions": [
+      {
+        "id": "499cf19d-c88d-452f-aa1c-ef990ed87473",
+        "paymentType": "VISA",
+        "amount": 25.74,
+        "createdAt": "2019-07-13"
+      },
+      {
+        "id": "37f58a0b-085b-4043-b82a-40a2d0cc19bd",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 16.85,
+        "createdAt": "2012-05-11"
+      }
+    ]
+  },
+  {
+    "id": "45e7d183-faef-4aa0-bcd4-8cde2ddb46d0",
+    "fullName": "Bradly Pouros",
+    "phoneNumber": "(868) 082-6885",
+    "address": "Suite 536 8989 Abbott Plain, Eliciamouth, IN 79620",
+    "createdAt": "2012-09-02",
+    "purchaseTransactions": [
+      {
+        "id": "eaaffe70-0d40-43ad-982b-f158e3d8a74f",
+        "paymentType": "DISCOVER",
+        "amount": 14.79,
+        "createdAt": "2016-07-22"
+      }
+    ]
+  },
+  {
+    "id": "cd26a3f6-0ea7-4b00-b679-de85897c83a0",
+    "fullName": "Steve Lubowitz",
+    "phoneNumber": "(454) 041-7596",
+    "address": "44959 Reinger Ports, Jolandastad, ID 77064-9692",
+    "createdAt": "2018-09-09",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "cff2435d-b6e6-40bb-bd50-3a285bc43e85",
+    "fullName": "Peter Hand",
+    "phoneNumber": "1-112-292-3958",
+    "address": "42966 Gary Loop, East Rocco, VT 62058-3767",
+    "createdAt": "2013-05-21",
+    "purchaseTransactions": [
+      {
+        "id": "df80cded-9ae1-4c84-bf3d-7d449da21cab",
+        "paymentType": "DINERS_CLUB",
+        "amount": 4.17,
+        "createdAt": "2018-09-05"
+      },
+      {
+        "id": "38a39320-39c5-405a-8137-2ed2faafc8ac",
+        "paymentType": "SOLO",
+        "amount": 76.69,
+        "createdAt": "2014-04-06"
+      },
+      {
+        "id": "72f4f886-4074-4821-9f9e-6366443ae36a",
+        "paymentType": "DINERS_CLUB",
+        "amount": 56.59,
+        "createdAt": "2019-07-03"
+      }
+    ]
+  },
+  {
+    "id": "8e1c1138-c367-4d08-b622-26e4a2539bdf",
+    "fullName": "Ms. Peter Wehner",
+    "phoneNumber": "907-619-6170",
+    "address": "6321 Tyrell Plains, East Mafalda, GA 69039",
+    "createdAt": "2016-08-10",
+    "purchaseTransactions": [
+      {
+        "id": "a751b438-b216-451c-b974-2e04c7d731e3",
+        "paymentType": "LASER",
+        "amount": 26.26,
+        "createdAt": "2014-03-19"
+      },
+      {
+        "id": "e5981298-328b-4047-8927-003ae918773d",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 1.79,
+        "createdAt": "2020-03-08"
+      },
+      {
+        "id": "9f61203c-af86-45d6-a541-d651436884b1",
+        "paymentType": "MASTERCARD",
+        "amount": 40.90,
+        "createdAt": "2018-06-28"
+      },
+      {
+        "id": "4610962f-9c23-4e1f-9a04-8a996ad79040",
+        "paymentType": "VISA",
+        "amount": 67.00,
+        "createdAt": "2015-05-16"
+      },
+      {
+        "id": "67a7ca4a-d902-4ccc-95eb-f2fa0e5dad5a",
+        "paymentType": "SOLO",
+        "amount": 72.76,
+        "createdAt": "2016-07-15"
+      }
+    ]
+  },
+  {
+    "id": "b1a7fa07-0863-4335-a290-7172c34c41dc",
+    "fullName": "Kenneth Krajcik",
+    "phoneNumber": "1-271-859-6994",
+    "address": "Suite 282 10835 Meg Port, New Jerome, CA 82303",
+    "createdAt": "2017-08-27",
+    "purchaseTransactions": [
+      {
+        "id": "990fbd86-2ff7-4c83-85fd-d5515a08fc06",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 42.98,
+        "createdAt": "2014-12-14"
+      },
+      {
+        "id": "4eb4fb93-9fcd-483a-a0db-b2c95511ef9d",
+        "paymentType": "LASER",
+        "amount": 9.70,
+        "createdAt": "2020-01-02"
+      },
+      {
+        "id": "328b332e-3b5d-4b92-963b-a359a8a2a729",
+        "paymentType": "VISA",
+        "amount": 82.47,
+        "createdAt": "2017-05-19"
+      },
+      {
+        "id": "bbe8b31b-8960-4a5e-acf5-d2d8ad226a3f",
+        "paymentType": "JCB",
+        "amount": 14.38,
+        "createdAt": "2013-05-23"
+      },
+      {
+        "id": "44d7b126-3fb4-457b-a4ad-0f67e382ecb0",
+        "paymentType": "JCB",
+        "amount": 35.70,
+        "createdAt": "2016-01-04"
+      }
+    ]
+  },
+  {
+    "id": "76b15d75-c39c-4778-9ae9-b78d3cc515fa",
+    "fullName": "Ms. Zachery Sawayn",
+    "phoneNumber": "966-826-6679",
+    "address": "Suite 050 044 Malcom Mission, Patberg, VA 39987",
+    "createdAt": "2016-02-14",
+    "purchaseTransactions": [
+      {
+        "id": "2bbc43fc-7ff9-443e-bf7d-6f03d8934c98",
+        "paymentType": "SWITCH",
+        "amount": 23.30,
+        "createdAt": "2015-10-28"
+      },
+      {
+        "id": "eec520da-9268-4afb-a447-96a6f577a1a0",
+        "paymentType": "DINERS_CLUB",
+        "amount": 83.25,
+        "createdAt": "2017-01-04"
+      },
+      {
+        "id": "cd40934f-446e-453b-8af8-143d498b416a",
+        "paymentType": "DISCOVER",
+        "amount": 65.27,
+        "createdAt": "2020-08-29"
+      },
+      {
+        "id": "570dca6d-385d-45df-867a-41a608611339",
+        "paymentType": "SWITCH",
+        "amount": 63.80,
+        "createdAt": "2019-09-11"
+      },
+      {
+        "id": "8cd870fe-813c-46dc-82ca-de84f9e00b44",
+        "paymentType": "JCB",
+        "amount": 83.10,
+        "createdAt": "2014-04-24"
+      },
+      {
+        "id": "7ce3d3dd-c319-4764-b445-5e6d554a545c",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 41.81,
+        "createdAt": "2013-04-18"
+      },
+      {
+        "id": "7ea0320c-97a6-4d34-8700-9fb0b080716b",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 94.84,
+        "createdAt": "2021-04-06"
+      },
+      {
+        "id": "eb591ffb-8ce2-4c18-a3a9-d5c80a93ccec",
+        "paymentType": "JCB",
+        "amount": 66.97,
+        "createdAt": "2021-02-24"
+      },
+      {
+        "id": "95c6d80f-2a8a-4536-9e83-8cf9c86b30de",
+        "paymentType": "SWITCH",
+        "amount": 84.31,
+        "createdAt": "2021-12-20"
+      }
+    ]
+  },
+  {
+    "id": "b4ef89ea-773e-4c62-9b85-b07df9d9f19b",
+    "fullName": "Dr. Sandi Wiegand",
+    "phoneNumber": "670-068-8879",
+    "address": "8351 Kuhic Park, Armandomouth, OH 06191",
+    "createdAt": "2014-05-21",
+    "purchaseTransactions": [
+      {
+        "id": "a1627c37-35a8-4ace-ab27-e9b8c10611bf",
+        "paymentType": "SOLO",
+        "amount": 95.59,
+        "createdAt": "2018-11-25"
+      },
+      {
+        "id": "e30e3248-bc0f-4866-9f3e-255a7d00f579",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 97.94,
+        "createdAt": "2022-02-22"
+      },
+      {
+        "id": "4be1fc28-6db9-4673-a591-5c7e9dfe79d5",
+        "paymentType": "LASER",
+        "amount": 64.04,
+        "createdAt": "2018-02-10"
+      }
+    ]
+  },
+  {
+    "id": "935a2172-0d92-40c0-9643-df86a7cb08af",
+    "fullName": "Daren Altenwerth",
+    "phoneNumber": "508-540-5989",
+    "address": "912 Antionette Pines, South Taunya, NY 30691",
+    "createdAt": "2019-03-26",
+    "purchaseTransactions": [
+      {
+        "id": "6544f01a-59c9-48a4-9d87-44c3dda03a25",
+        "paymentType": "DISCOVER",
+        "amount": 75.65,
+        "createdAt": "2018-08-24"
+      },
+      {
+        "id": "f2a66bca-ac49-4150-a9f3-0f805b803d21",
+        "paymentType": "JCB",
+        "amount": 87.05,
+        "createdAt": "2018-08-22"
+      },
+      {
+        "id": "aaa33008-6b10-4cac-b798-13fa3b429ead",
+        "paymentType": "VISA",
+        "amount": 7.00,
+        "createdAt": "2013-02-17"
+      },
+      {
+        "id": "d9096875-7aab-4fd2-b886-bc0605250ea1",
+        "paymentType": "LASER",
+        "amount": 17.92,
+        "createdAt": "2020-08-24"
+      }
+    ]
+  },
+  {
+    "id": "e1b2bb41-c81d-409d-8027-6994857012ac",
+    "fullName": "Johnie Kuphal III",
+    "phoneNumber": "337.692.8172",
+    "address": "Apt. 547 1799 Buckridge Manor, Beattyshire, SC 81517",
+    "createdAt": "2018-08-12",
+    "purchaseTransactions": [
+      {
+        "id": "17345471-cbbd-4159-aec9-a44bb5cc8ba1",
+        "paymentType": "MASTERCARD",
+        "amount": 83.77,
+        "createdAt": "2016-09-26"
+      },
+      {
+        "id": "3183481a-9eb1-4de8-b8e7-d198af061f51",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 93.66,
+        "createdAt": "2013-07-15"
+      }
+    ]
+  },
+  {
+    "id": "f4577373-fab1-4785-866e-674a0c7812c8",
+    "fullName": "Ashlee Simonis",
+    "phoneNumber": "016.135.2418",
+    "address": "28315 Rowe Grove, Joshside, OR 97077",
+    "createdAt": "2019-07-31",
+    "purchaseTransactions": [
+      {
+        "id": "05b88f3f-e7fc-4473-bef0-6a48c504c740",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 82.64,
+        "createdAt": "2017-05-19"
+      },
+      {
+        "id": "dd109a9c-e3d3-4115-bcd9-7352cc45a02e",
+        "paymentType": "LASER",
+        "amount": 51.96,
+        "createdAt": "2020-03-13"
+      },
+      {
+        "id": "d744234d-2e17-4ea9-a71b-dd0842fa8e69",
+        "paymentType": "VISA",
+        "amount": 13.83,
+        "createdAt": "2013-07-30"
+      },
+      {
+        "id": "fee09b2c-8205-4d89-84c0-dab109a8d7a8",
+        "paymentType": "DINERS_CLUB",
+        "amount": 27.15,
+        "createdAt": "2016-11-15"
+      },
+      {
+        "id": "4804719b-7137-43bd-87cf-3f68b3bbb91d",
+        "paymentType": "MASTERCARD",
+        "amount": 93.90,
+        "createdAt": "2014-09-16"
+      },
+      {
+        "id": "cbd2a04f-149c-4b20-b57c-f09650e777de",
+        "paymentType": "DANKORT",
+        "amount": 42.40,
+        "createdAt": "2019-11-10"
+      },
+      {
+        "id": "df33951f-4859-42ac-aa6f-6474c8700c8b",
+        "paymentType": "DISCOVER",
+        "amount": 86.91,
+        "createdAt": "2016-09-11"
+      }
+    ]
+  },
+  {
+    "id": "236a8446-1736-424e-a699-fc9c7018781f",
+    "fullName": "Thomasena Sporer III",
+    "phoneNumber": "946-937-7736",
+    "address": "12832 Roxanna Tunnel, Brockbury, AZ 92198-9997",
+    "createdAt": "2012-06-23",
+    "purchaseTransactions": [
+      {
+        "id": "c7726f0c-8b3d-4349-ab90-ce20333972a0",
+        "paymentType": "MASTERCARD",
+        "amount": 86.72,
+        "createdAt": "2020-12-28"
+      },
+      {
+        "id": "15e0506e-4d47-4692-932f-0366cb8ab87b",
+        "paymentType": "VISA",
+        "amount": 9.17,
+        "createdAt": "2018-07-30"
+      },
+      {
+        "id": "d083965f-bce2-4ede-a579-fb0366196186",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 95.39,
+        "createdAt": "2018-06-09"
+      }
+    ]
+  },
+  {
+    "id": "72736ec1-6b30-4a1a-9564-c0af4574a467",
+    "fullName": "Simon Moore",
+    "phoneNumber": "(056) 647-3330",
+    "address": "Suite 664 459 Friesen Ford, South Kendalltown, AR 03166-3148",
+    "createdAt": "2016-01-28",
+    "purchaseTransactions": [
+      {
+        "id": "fef4e5cd-3268-4513-a093-c7963382e037",
+        "paymentType": "JCB",
+        "amount": 34.36,
+        "createdAt": "2019-02-11"
+      },
+      {
+        "id": "5417b116-e1c4-465b-a606-216ab64c7a79",
+        "paymentType": "MASTERCARD",
+        "amount": 87.79,
+        "createdAt": "2018-02-18"
+      },
+      {
+        "id": "f684fe21-55b3-4ecd-ada2-369dd5b35f0d",
+        "paymentType": "JCB",
+        "amount": 28.17,
+        "createdAt": "2020-05-10"
+      }
+    ]
+  },
+  {
+    "id": "77f08acb-a5b8-4885-a34b-00e79d92b943",
+    "fullName": "Sol Metz",
+    "phoneNumber": "022.973.0406",
+    "address": "Suite 238 62056 Julietta Gardens, Mantechester, WY 95439-2293",
+    "createdAt": "2014-03-15",
+    "purchaseTransactions": [
+      {
+        "id": "fb924ffb-ab61-4208-b81e-be7bee8e4633",
+        "paymentType": "SOLO",
+        "amount": 99.47,
+        "createdAt": "2021-05-16"
+      },
+      {
+        "id": "390df2dd-6958-434c-b131-76ab8d1f9512",
+        "paymentType": "SOLO",
+        "amount": 65.11,
+        "createdAt": "2015-10-12"
+      },
+      {
+        "id": "4bff154e-b477-4c1e-bd0e-1c45b1c785c7",
+        "paymentType": "VISA",
+        "amount": 65.93,
+        "createdAt": "2019-10-28"
+      },
+      {
+        "id": "32e5f975-505a-424f-b8fc-e65d0473fb3a",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 30.65,
+        "createdAt": "2017-03-23"
+      },
+      {
+        "id": "3528e920-9792-4a46-b57b-144abd1fd69f",
+        "paymentType": "JCB",
+        "amount": 75.74,
+        "createdAt": "2020-09-21"
+      },
+      {
+        "id": "3230d0f0-31bd-4a23-9b7f-d6c8ffe2d692",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 84.46,
+        "createdAt": "2020-09-25"
+      }
+    ]
+  },
+  {
+    "id": "800f6e0c-7632-481c-a9fe-364a841529c7",
+    "fullName": "Felton Larkin",
+    "phoneNumber": "352-972-9732",
+    "address": "50433 Koss Orchard, Ziemebury, PA 99756",
+    "createdAt": "2018-06-09",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "4c5b2b73-b271-43d3-8526-43f969e7cdfe",
+    "fullName": "Suzanne Barrows Jr.",
+    "phoneNumber": "398.216.7546",
+    "address": "07998 Clara Square, Lucianaton, SD 44955-6914",
+    "createdAt": "2012-12-09",
+    "purchaseTransactions": [
+      {
+        "id": "04c3f1d8-399e-4291-ac5a-7249aae53960",
+        "paymentType": "JCB",
+        "amount": 44.80,
+        "createdAt": "2021-02-12"
+      },
+      {
+        "id": "c5b8af30-8fde-4cae-9c74-08166786f5a6",
+        "paymentType": "SWITCH",
+        "amount": 93.67,
+        "createdAt": "2020-11-20"
+      },
+      {
+        "id": "b5b992e5-6e5f-4d32-8ad1-533ab613eb4f",
+        "paymentType": "LASER",
+        "amount": 76.91,
+        "createdAt": "2012-05-01"
+      },
+      {
+        "id": "effa5715-52b9-4829-a79b-fbb46e40f1da",
+        "paymentType": "DANKORT",
+        "amount": 2.71,
+        "createdAt": "2012-03-23"
+      },
+      {
+        "id": "7103ab75-9bb6-4cee-91f4-283dc86674a1",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 73.50,
+        "createdAt": "2018-07-02"
+      },
+      {
+        "id": "69f113bb-3ab9-4f42-8611-35f28c1b55f2",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 77.48,
+        "createdAt": "2019-02-13"
+      },
+      {
+        "id": "c4d4044a-7539-4715-ab10-e5599142e8f9",
+        "paymentType": "DISCOVER",
+        "amount": 84.94,
+        "createdAt": "2021-06-13"
+      },
+      {
+        "id": "57e3859e-61a4-475b-affb-1b4dee2d3d91",
+        "paymentType": "SOLO",
+        "amount": 85.12,
+        "createdAt": "2014-02-12"
+      },
+      {
+        "id": "ee57665a-97d8-42e3-925a-bb73328465ff",
+        "paymentType": "SWITCH",
+        "amount": 3.98,
+        "createdAt": "2018-04-14"
+      }
+    ]
+  },
+  {
+    "id": "a3494235-a43c-4c87-ba48-88f608a4c90e",
+    "fullName": "Carlton Bashirian",
+    "phoneNumber": "(839) 900-9851",
+    "address": "Suite 220 5477 Cruz Cliffs, Greenholtfurt, TX 28503-6285",
+    "createdAt": "2013-09-06",
+    "purchaseTransactions": [
+      {
+        "id": "e627b5e0-305a-409a-bce0-e2f8ddcaa0c0",
+        "paymentType": "SOLO",
+        "amount": 36.66,
+        "createdAt": "2019-02-15"
+      },
+      {
+        "id": "c7551fd4-2047-4fe4-8be6-3866a7af4185",
+        "paymentType": "SOLO",
+        "amount": 14.61,
+        "createdAt": "2016-04-23"
+      }
+    ]
+  },
+  {
+    "id": "32ac0d32-7d7d-44e7-be02-809de0c37d27",
+    "fullName": "Mr. Monty Lindgren",
+    "phoneNumber": "1-503-619-5465",
+    "address": "397 Tremblay Prairie, Archieville, CA 86069",
+    "createdAt": "2019-06-04",
+    "purchaseTransactions": [
+      {
+        "id": "45d60bf5-cf04-4a2b-a4cf-4ef15a5cbc71",
+        "paymentType": "LASER",
+        "amount": 7.40,
+        "createdAt": "2015-03-11"
+      },
+      {
+        "id": "9554fab8-8c1d-436c-b894-5a82d86d44c0",
+        "paymentType": "DISCOVER",
+        "amount": 16.96,
+        "createdAt": "2019-02-17"
+      },
+      {
+        "id": "080d9f53-e832-4d12-b917-4879e0a9d25b",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 29.76,
+        "createdAt": "2019-04-04"
+      },
+      {
+        "id": "7ecadac2-6b17-49c5-8e0b-0393f13a9487",
+        "paymentType": "JCB",
+        "amount": 3.70,
+        "createdAt": "2021-10-21"
+      },
+      {
+        "id": "6eeaefe7-3d2f-442b-866d-724c769bf2f9",
+        "paymentType": "DINERS_CLUB",
+        "amount": 18.02,
+        "createdAt": "2020-06-14"
+      },
+      {
+        "id": "0fd5b755-63dd-4196-8e75-c65815b31956",
+        "paymentType": "JCB",
+        "amount": 84.09,
+        "createdAt": "2014-06-05"
+      },
+      {
+        "id": "e3490eb2-44a9-4602-a1fb-7a14c0c7d4b7",
+        "paymentType": "LASER",
+        "amount": 35.04,
+        "createdAt": "2013-08-12"
+      },
+      {
+        "id": "5b419337-37dc-42ed-891f-2c381dccbea9",
+        "paymentType": "JCB",
+        "amount": 49.48,
+        "createdAt": "2021-03-15"
+      },
+      {
+        "id": "3dc607ff-405e-495e-aec1-52060f057ace",
+        "paymentType": "DANKORT",
+        "amount": 0.99,
+        "createdAt": "2017-07-07"
+      }
+    ]
+  },
+  {
+    "id": "28c92605-6c8e-4396-9329-8175cb9c189c",
+    "fullName": "Dudley Schumm",
+    "phoneNumber": "389-476-2996",
+    "address": "39916 Hahn Spring, North Julianview, UT 30940-7169",
+    "createdAt": "2020-09-22",
+    "purchaseTransactions": [
+      {
+        "id": "cfb3447c-5480-4ed5-b05a-f40d3698fc0c",
+        "paymentType": "DISCOVER",
+        "amount": 96.19,
+        "createdAt": "2019-03-09"
+      },
+      {
+        "id": "437fecea-206f-43b8-9054-ca8de87dccfc",
+        "paymentType": "MASTERCARD",
+        "amount": 35.76,
+        "createdAt": "2014-09-08"
+      },
+      {
+        "id": "06ea524e-38ea-48ac-a2df-6fb78587da7f",
+        "paymentType": "SWITCH",
+        "amount": 11.91,
+        "createdAt": "2013-03-30"
+      },
+      {
+        "id": "5d09432b-ffb1-43e0-9012-2375102641fa",
+        "paymentType": "SWITCH",
+        "amount": 87.89,
+        "createdAt": "2018-10-03"
+      },
+      {
+        "id": "5a3483ac-2514-4c6b-a304-6836563bb79f",
+        "paymentType": "JCB",
+        "amount": 43.81,
+        "createdAt": "2021-10-19"
+      }
+    ]
+  },
+  {
+    "id": "a6b4e7ca-e240-4932-95ec-518c1c04f97c",
+    "fullName": "Ms. Effie Spinka",
+    "phoneNumber": "1-004-414-7255",
+    "address": "805 Adella Divide, Bartolettimouth, NE 97750",
+    "createdAt": "2019-11-23",
+    "purchaseTransactions": [
+      {
+        "id": "2f91c3f4-382e-412b-af2b-4143ab268881",
+        "paymentType": "LASER",
+        "amount": 85.94,
+        "createdAt": "2021-10-31"
+      },
+      {
+        "id": "8143f735-fa02-4cf1-b55e-c5f8c6a093c7",
+        "paymentType": "SOLO",
+        "amount": 84.17,
+        "createdAt": "2020-08-24"
+      },
+      {
+        "id": "fe302789-d9fa-4c16-b262-7ab0c60f38df",
+        "paymentType": "DINERS_CLUB",
+        "amount": 29.12,
+        "createdAt": "2018-03-06"
+      },
+      {
+        "id": "1ea0638c-e013-4be5-8d6a-08f4259b0053",
+        "paymentType": "SOLO",
+        "amount": 37.30,
+        "createdAt": "2014-06-01"
+      },
+      {
+        "id": "87a14528-5dc2-47bf-9de0-5761eb870241",
+        "paymentType": "DANKORT",
+        "amount": 49.78,
+        "createdAt": "2016-07-12"
+      },
+      {
+        "id": "e78f254e-e722-4d0e-8f12-669da6a0e65d",
+        "paymentType": "JCB",
+        "amount": 35.90,
+        "createdAt": "2019-11-19"
+      }
+    ]
+  },
+  {
+    "id": "9fd89163-44c3-4bcc-9695-e0e3d6e5e5d6",
+    "fullName": "Stephany Rolfson",
+    "phoneNumber": "1-726-420-6829",
+    "address": "98658 Oralia Grove, Diegoland, HI 31887-2400",
+    "createdAt": "2014-01-28",
+    "purchaseTransactions": [
+      {
+        "id": "b4abf3f5-d463-405a-bbc3-e35e30031012",
+        "paymentType": "MASTERCARD",
+        "amount": 56.55,
+        "createdAt": "2020-06-17"
+      },
+      {
+        "id": "f226de42-178a-4ec6-a542-3c38522a37d2",
+        "paymentType": "MASTERCARD",
+        "amount": 85.97,
+        "createdAt": "2018-12-09"
+      },
+      {
+        "id": "317a76ca-a698-4985-bfa0-69716172c96d",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 87.49,
+        "createdAt": "2016-08-07"
+      },
+      {
+        "id": "eed1d838-8134-44d0-b425-edf54b116220",
+        "paymentType": "DINERS_CLUB",
+        "amount": 15.45,
+        "createdAt": "2015-07-13"
+      },
+      {
+        "id": "731ad530-fae6-4feb-8248-5f5468ee37a7",
+        "paymentType": "MASTERCARD",
+        "amount": 96.16,
+        "createdAt": "2019-07-31"
+      },
+      {
+        "id": "85f39a6d-3896-4fca-9349-013637f273bc",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 83.70,
+        "createdAt": "2013-06-10"
+      },
+      {
+        "id": "c75623c8-cc09-430d-a594-986b606a79d9",
+        "paymentType": "VISA",
+        "amount": 85.52,
+        "createdAt": "2020-01-24"
+      }
+    ]
+  },
+  {
+    "id": "bae75e92-037e-4d5b-a2d3-942e5947fcee",
+    "fullName": "Earlean Rolfson",
+    "phoneNumber": "986.717.4312",
+    "address": "55875 Wehner Plains, North Zachary, VT 76930",
+    "createdAt": "2015-05-06",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "d10f3b09-61cd-4205-b0fd-da3d18727031",
+    "fullName": "Miss Ramona Cassin",
+    "phoneNumber": "632-841-4084",
+    "address": "56058 Marisol Brook, Port Leonardfort, CO 27486-8132",
+    "createdAt": "2020-09-09",
+    "purchaseTransactions": [
+      {
+        "id": "46797888-9255-443f-ac27-2017ca708b0b",
+        "paymentType": "JCB",
+        "amount": 27.15,
+        "createdAt": "2015-05-06"
+      },
+      {
+        "id": "9fe11221-7625-4342-9ea1-33ec05500f93",
+        "paymentType": "JCB",
+        "amount": 23.56,
+        "createdAt": "2021-07-09"
+      },
+      {
+        "id": "5bfe5307-2d24-45fc-a401-1f9e421631f1",
+        "paymentType": "SOLO",
+        "amount": 73.18,
+        "createdAt": "2020-11-23"
+      }
+    ]
+  },
+  {
+    "id": "c13a3e24-53f6-4548-a046-872b3142b733",
+    "fullName": "Coletta Goldner",
+    "phoneNumber": "392.221.8859",
+    "address": "Suite 023 701 Christopher Wells, North Brucestad, SC 96654-0943",
+    "createdAt": "2020-10-02",
+    "purchaseTransactions": [
+      {
+        "id": "a9d26aff-7ba6-418e-ae0d-803539eb87b3",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 48.04,
+        "createdAt": "2020-11-12"
+      },
+      {
+        "id": "e4512a13-7859-4e20-8910-c122c731db55",
+        "paymentType": "DINERS_CLUB",
+        "amount": 28.46,
+        "createdAt": "2016-08-19"
+      },
+      {
+        "id": "61bf2249-a45e-4491-b2bf-06c078d010f6",
+        "paymentType": "JCB",
+        "amount": 24.69,
+        "createdAt": "2017-10-03"
+      },
+      {
+        "id": "4e1fe3db-514a-47e8-8100-2d51143558d2",
+        "paymentType": "VISA",
+        "amount": 75.37,
+        "createdAt": "2017-05-02"
+      },
+      {
+        "id": "c5d9bd84-bf23-4b7b-a931-a21bdb196c22",
+        "paymentType": "DINERS_CLUB",
+        "amount": 31.60,
+        "createdAt": "2016-05-15"
+      },
+      {
+        "id": "2b232f1d-49eb-4921-9eaf-8f1ff5c4d24c",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 58.36,
+        "createdAt": "2013-11-19"
+      },
+      {
+        "id": "bfc7b674-14e5-4472-aebd-fe218a4dfc42",
+        "paymentType": "SWITCH",
+        "amount": 18.94,
+        "createdAt": "2016-04-10"
+      },
+      {
+        "id": "63ee7014-1718-4b44-8984-5d9d22d92218",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 17.83,
+        "createdAt": "2021-02-18"
+      }
+    ]
+  },
+  {
+    "id": "ff63d096-b8c9-4d9a-972e-fac0f2daba23",
+    "fullName": "Pamula Schulist",
+    "phoneNumber": "1-604-783-5993",
+    "address": "38382 Louann Center, Lake Keilaview, MD 84862",
+    "createdAt": "2012-08-17",
+    "purchaseTransactions": [
+      {
+        "id": "b2956e39-3f3f-4d36-a22c-e84548b4f108",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 35.02,
+        "createdAt": "2016-03-15"
+      },
+      {
+        "id": "c352482a-08a3-498f-8458-4c70687b5a33",
+        "paymentType": "DANKORT",
+        "amount": 83.18,
+        "createdAt": "2012-09-22"
+      },
+      {
+        "id": "f338b1d6-9215-47b1-bd67-94e09aca72b6",
+        "paymentType": "SWITCH",
+        "amount": 23.23,
+        "createdAt": "2015-11-29"
+      },
+      {
+        "id": "8b075104-c095-491c-8032-0fb538f8e884",
+        "paymentType": "VISA",
+        "amount": 58.20,
+        "createdAt": "2012-06-13"
+      },
+      {
+        "id": "ebbb4d2b-fe8e-4bda-8209-d836948453ee",
+        "paymentType": "DINERS_CLUB",
+        "amount": 0.71,
+        "createdAt": "2017-07-24"
+      }
+    ]
+  },
+  {
+    "id": "75567fda-5448-4156-b305-f26023ff8da8",
+    "fullName": "Agustin Kautzer IV",
+    "phoneNumber": "723.765.4726",
+    "address": "47963 Tremblay Lodge, Kingchester, WV 46093-6240",
+    "createdAt": "2021-12-04",
+    "purchaseTransactions": [
+      {
+        "id": "464d6ab1-190d-4e1f-912a-5ab33d3e5f6b",
+        "paymentType": "JCB",
+        "amount": 69.49,
+        "createdAt": "2013-04-11"
+      },
+      {
+        "id": "06e38bee-ecb6-401d-9032-c7d8fb8c117a",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 97.31,
+        "createdAt": "2022-01-02"
+      },
+      {
+        "id": "0e574ee0-1bea-44c0-aeda-bdbe2f429446",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 10.13,
+        "createdAt": "2017-01-11"
+      },
+      {
+        "id": "02a1f210-051c-478f-aa4a-030e9f08ae09",
+        "paymentType": "DINERS_CLUB",
+        "amount": 72.55,
+        "createdAt": "2019-01-09"
+      },
+      {
+        "id": "64c641dc-9d7b-46fe-99bd-279b8c9e8d40",
+        "paymentType": "DANKORT",
+        "amount": 77.16,
+        "createdAt": "2015-08-30"
+      },
+      {
+        "id": "68cabee5-8f8d-4599-a471-f207159ee6d7",
+        "paymentType": "DINERS_CLUB",
+        "amount": 8.00,
+        "createdAt": "2020-03-03"
+      },
+      {
+        "id": "bcc5dc64-d6d0-4c24-a2a5-a0b81264baa1",
+        "paymentType": "VISA",
+        "amount": 16.45,
+        "createdAt": "2021-06-27"
+      },
+      {
+        "id": "d1b87867-71b6-404a-a878-7a8657065971",
+        "paymentType": "SWITCH",
+        "amount": 23.93,
+        "createdAt": "2012-03-29"
+      },
+      {
+        "id": "a9ebaabc-9687-40ba-8bf5-93d7a4706803",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 99.27,
+        "createdAt": "2020-10-01"
+      }
+    ]
+  },
+  {
+    "id": "c735e780-4475-4c2d-827c-4375e257e70c",
+    "fullName": "Mose Rippin",
+    "phoneNumber": "1-461-360-0902",
+    "address": "8611 Wilderman Extension, Krajcikstad, SC 20360-1863",
+    "createdAt": "2016-09-15",
+    "purchaseTransactions": [
+      {
+        "id": "2575f479-ed40-414e-816f-66a27fd0eee6",
+        "paymentType": "DINERS_CLUB",
+        "amount": 62.86,
+        "createdAt": "2020-10-01"
+      },
+      {
+        "id": "1df56c7f-ad0d-46a0-bdc6-242d2574dcaa",
+        "paymentType": "DINERS_CLUB",
+        "amount": 2.43,
+        "createdAt": "2018-12-12"
+      },
+      {
+        "id": "34389ff6-8e1c-4aba-ac94-8328a5f67857",
+        "paymentType": "JCB",
+        "amount": 78.79,
+        "createdAt": "2013-12-09"
+      },
+      {
+        "id": "400cc0ba-3fa9-448e-851f-0c33d3347519",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 4.79,
+        "createdAt": "2015-05-01"
+      },
+      {
+        "id": "9894008d-fde1-4149-af2d-1189d076f4e6",
+        "paymentType": "MASTERCARD",
+        "amount": 46.60,
+        "createdAt": "2017-07-27"
+      },
+      {
+        "id": "2bd598c5-b462-4032-bcb9-2bde90427743",
+        "paymentType": "DINERS_CLUB",
+        "amount": 84.96,
+        "createdAt": "2018-12-30"
+      },
+      {
+        "id": "ddf3e26d-972d-4e76-9b2a-33641fbf7c1a",
+        "paymentType": "SWITCH",
+        "amount": 14.31,
+        "createdAt": "2013-12-22"
+      }
+    ]
+  },
+  {
+    "id": "9f0a4190-0860-4cc5-8bec-d0ff1c2ffe25",
+    "fullName": "Jackson Brekke",
+    "phoneNumber": "751-037-6839",
+    "address": "451 Maybelle Drive, Oleviachester, UT 73475-1709",
+    "createdAt": "2020-06-06",
+    "purchaseTransactions": [
+      {
+        "id": "5a8cad6d-010a-4ade-a9d2-71e375ca1fd1",
+        "paymentType": "DANKORT",
+        "amount": 57.11,
+        "createdAt": "2015-08-05"
+      },
+      {
+        "id": "da5fa6b0-c6b3-4264-ae45-8832549a2be9",
+        "paymentType": "MASTERCARD",
+        "amount": 83.49,
+        "createdAt": "2021-01-13"
+      },
+      {
+        "id": "7a0bbd87-b654-4f19-a52a-ec5c6af3c207",
+        "paymentType": "JCB",
+        "amount": 9.48,
+        "createdAt": "2014-08-20"
+      },
+      {
+        "id": "4d4e236a-b353-4d5f-810f-8424a98de90e",
+        "paymentType": "MASTERCARD",
+        "amount": 77.52,
+        "createdAt": "2014-12-08"
+      },
+      {
+        "id": "58fc5da5-8116-417f-88a9-2d11031b2ff5",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 4.99,
+        "createdAt": "2020-04-09"
+      },
+      {
+        "id": "d19a7a8b-3354-4bcf-9356-4abba8ab5b5e",
+        "paymentType": "SOLO",
+        "amount": 6.34,
+        "createdAt": "2019-04-24"
+      }
+    ]
+  },
+  {
+    "id": "e3b44732-8fa9-401f-9fa9-672837211e6a",
+    "fullName": "Man Boehm",
+    "phoneNumber": "535.853.6087",
+    "address": "Suite 302 6956 Corrinne Fall, North Matha, OR 10612",
+    "createdAt": "2016-08-24",
+    "purchaseTransactions": [
+      {
+        "id": "fe9ab117-4b44-45fb-8545-6dff751960a7",
+        "paymentType": "SOLO",
+        "amount": 87.81,
+        "createdAt": "2016-12-04"
+      },
+      {
+        "id": "5149a769-aa1a-4ac9-b80c-0414a3c76d7d",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 7.01,
+        "createdAt": "2014-07-15"
+      },
+      {
+        "id": "da2ef0ec-06cb-4693-916a-19ef9a0c31a0",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 4.32,
+        "createdAt": "2019-08-07"
+      },
+      {
+        "id": "ca8c8608-7c0c-4619-a0ff-2897feebfac3",
+        "paymentType": "SOLO",
+        "amount": 45.09,
+        "createdAt": "2022-01-25"
+      },
+      {
+        "id": "ef84dd2c-220b-4b72-91cd-4232fb3eba00",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 64.27,
+        "createdAt": "2012-04-14"
+      },
+      {
+        "id": "519a50f9-5ffc-4197-b373-30d71fe6ceb3",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 26.55,
+        "createdAt": "2015-02-27"
+      },
+      {
+        "id": "333a73d9-67ef-4f40-8a10-4912b17ee0dc",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 9.84,
+        "createdAt": "2019-07-13"
+      },
+      {
+        "id": "bb83d0ae-8571-4b5e-9b70-fc04ba9a34cc",
+        "paymentType": "VISA",
+        "amount": 56.23,
+        "createdAt": "2013-09-26"
+      }
+    ]
+  },
+  {
+    "id": "e1fcfd75-ac79-4317-b8e9-b7f3d4e4d8ac",
+    "fullName": "Pedro Mayert Sr.",
+    "phoneNumber": "(902) 198-7010",
+    "address": "Suite 394 4675 Abshire Walks, Borerbury, ME 87097",
+    "createdAt": "2014-02-15",
+    "purchaseTransactions": [
+      {
+        "id": "2252f318-b58b-4957-93ca-a17994aa09b1",
+        "paymentType": "VISA",
+        "amount": 37.45,
+        "createdAt": "2019-01-02"
+      },
+      {
+        "id": "2484c472-e5af-47b5-9511-e0aa2a83e44f",
+        "paymentType": "SWITCH",
+        "amount": 95.69,
+        "createdAt": "2013-10-18"
+      },
+      {
+        "id": "200fddc1-d0de-4311-a51c-ec0b709900ca",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 82.40,
+        "createdAt": "2018-05-04"
+      },
+      {
+        "id": "8868f128-331b-4f4d-a8e7-3a5a3c2a3d38",
+        "paymentType": "SOLO",
+        "amount": 77.06,
+        "createdAt": "2016-07-10"
+      },
+      {
+        "id": "5b6d289c-cab1-43c0-80b1-db118bbd3d7f",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 29.58,
+        "createdAt": "2018-01-30"
+      }
+    ]
+  },
+  {
+    "id": "3206954d-acad-47db-b255-93a6bfb6ef70",
+    "fullName": "Mack Lemke",
+    "phoneNumber": "1-447-224-8795",
+    "address": "64397 Smitham Summit, South Marion, TX 55324",
+    "createdAt": "2013-08-10",
+    "purchaseTransactions": [
+      {
+        "id": "6340a931-b9dc-4279-b92b-4fbe99d329e1",
+        "paymentType": "DISCOVER",
+        "amount": 96.26,
+        "createdAt": "2014-07-19"
+      },
+      {
+        "id": "2059e5a6-a47b-4ce0-ba84-3e30e625d0c5",
+        "paymentType": "VISA",
+        "amount": 67.66,
+        "createdAt": "2013-11-07"
+      },
+      {
+        "id": "81a2250b-3a7e-4476-8bff-facbd5d58834",
+        "paymentType": "JCB",
+        "amount": 77.11,
+        "createdAt": "2015-07-25"
+      },
+      {
+        "id": "8c8eb2a0-2174-4f17-8a9b-2a25b9368425",
+        "paymentType": "DANKORT",
+        "amount": 6.40,
+        "createdAt": "2013-05-03"
+      },
+      {
+        "id": "f26ca95c-1c70-4e12-af1e-d93edb4b9fca",
+        "paymentType": "SWITCH",
+        "amount": 88.17,
+        "createdAt": "2018-06-25"
+      },
+      {
+        "id": "9c454d19-7a8d-490d-9ecc-79e211940b4f",
+        "paymentType": "VISA",
+        "amount": 99.51,
+        "createdAt": "2012-09-25"
+      },
+      {
+        "id": "39e31d87-fbf0-442b-8053-1f976686cab6",
+        "paymentType": "SWITCH",
+        "amount": 16.33,
+        "createdAt": "2016-05-15"
+      }
+    ]
+  }
+]
